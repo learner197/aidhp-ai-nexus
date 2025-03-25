@@ -1,0 +1,1001 @@
+customer_id,name,age,gender,education,occupation,income,interests,preferences
+CUSTID_0,Meagan Andrade,35,Female,Master's,"Nurse, children's",85806,Fashion,Beauty
+CUSTID_1,Lindsey Chase,50,Female,High School,Electronics engineer,47162,Gaming,Fashion
+CUSTID_2,James Roberts,57,Female,Bachelor's,Analytical chemist,126874,Gaming,Luxury
+CUSTID_3,Raven Lopez,60,Female,Master's,"Nurse, children's",138123,Music,Luxury
+CUSTID_4,Keith Reed,27,Male,PhD,Media planner,132844,Music,Eco-Friendly
+CUSTID_5,Seth Martin,26,Male,PhD,"Embryologist, clinical",137852,"Books, Science",Budget
+CUSTID_6,Michael Kaiser,64,Male,PhD,Recruitment consultant,80591,Entertainment,Eco-Friendly
+CUSTID_7,Eduardo Vega,28,Male,Master's,"Producer, television/film/video",98705,Fashion,"Tech-Savvy, AI"
+CUSTID_8,Robin Key,40,Male,High School,Tourism officer,41656,Music,Budget
+CUSTID_9,Gregory Harris,19,Female,High School,Radio producer,141232,Beauty,"Tech-Savvy, AI"
+CUSTID_10,Whitney Howell,29,Male,PhD,"Administrator, local government",148735,Home-Decor,Budget
+CUSTID_11,William Larson,58,Female,High School,Exercise physiologist,100676,Music,Beauty
+CUSTID_12,Kara Adams,28,Female,Master's,"Engineer, maintenance",92665,Fashion,Luxury
+CUSTID_13,Mary Kirby,29,Female,Bachelor's,Research scientist (maths),88806,Finance,Fashion
+CUSTID_14,James Deleon,64,Female,Master's,Land,144248,Sports,Eco-Friendly
+CUSTID_15,Claudia Willis MD,33,Male,Bachelor's,International aid/development worker,101383,Sports,"Tech-Savvy, AI"
+CUSTID_16,Steven Sanders,32,Male,High School,Public relations officer,44536,Gaming,Budget
+CUSTID_17,Thomas Gilbert,44,Male,High School,"Conservation officer, historic buildings",89762,Gaming,Fashion
+CUSTID_18,Allison Weiss,19,Female,High School,Systems analyst,81043,Fashion,Beauty
+CUSTID_19,Elizabeth Schwartz,53,Female,Bachelor's,"Runner, broadcasting/film/video",122485,Beauty,Luxury
+CUSTID_20,Christopher Vance,51,Female,High School,"Designer, multimedia",126125,Home-Decor,Beauty
+CUSTID_21,Courtney Mccullough,63,Male,Master's,"Therapist, occupational",134713,Gaming,Budget
+CUSTID_22,Jesse Morris,54,Male,Bachelor's,Licensed conveyancer,142298,"Books, Science",Budget
+CUSTID_23,Michael Chaney,40,Male,Master's,"Programme researcher, broadcasting/film/video",44888,Music,"Tech-Savvy, AI"
+CUSTID_24,Robert Fox,64,Male,PhD,"Scientist, water quality",142426,Beauty,Beauty
+CUSTID_25,Ashley Holmes,45,Female,Bachelor's,Medical physicist,47221,Finance,Fashion
+CUSTID_26,Chris Roth,52,Male,PhD,Advertising copywriter,139617,Fashion,Fashion
+CUSTID_27,Amanda Mills DDS,25,Female,Bachelor's,"Conservator, museum/gallery",100926,Beauty,Fashion
+CUSTID_28,Richard Rhodes,29,Female,High School,Chartered accountant,131781,Gaming,Luxury
+CUSTID_29,Charlene Landry,34,Male,Master's,Commercial art gallery manager,77042,Sports,Beauty
+CUSTID_30,Tina Whitehead,62,Female,Master's,"Librarian, academic",132561,Technology,Fashion
+CUSTID_31,Vincent Ross,62,Male,Bachelor's,Media buyer,62255,Entertainment,"Tech-Savvy, AI"
+CUSTID_32,Dominique Smith,63,Male,Bachelor's,Building services engineer,121567,Beauty,Eco-Friendly
+CUSTID_33,Jonathan Chan,54,Male,Master's,Sales promotion account executive,138613,"Books, Science",Fashion
+CUSTID_34,John Williams,34,Female,High School,"Production designer, theatre/television/film",137180,Music,"Tech-Savvy, AI"
+CUSTID_35,David Cunningham,33,Female,High School,Publishing rights manager,67017,Fashion,"Tech-Savvy, AI"
+CUSTID_36,Rodney Heath,48,Female,Master's,"Scientist, research (medical)",92385,Home-Decor,Budget
+CUSTID_37,Cassandra Cook,18,Female,High School,Outdoor activities/education manager,45420,Beauty,Budget
+CUSTID_38,Vincent Tucker,28,Female,Bachelor's,"Psychologist, counselling",103986,Sports,"Tech-Savvy, AI"
+CUSTID_39,John Martin,61,Male,High School,Cartographer,48740,Gaming,Fashion
+CUSTID_40,Joseph Knight,57,Female,Master's,Interior and spatial designer,138730,Home-Decor,Beauty
+CUSTID_41,Mark Brown,31,Female,PhD,Mechanical engineer,112604,"Books, Science","Tech-Savvy, AI"
+CUSTID_42,Whitney Alvarez,51,Male,Master's,Firefighter,134307,Technology,Eco-Friendly
+CUSTID_43,Christopher Gibson,50,Female,High School,Theme park manager,59004,Technology,Budget
+CUSTID_44,Desiree Stone,36,Female,Bachelor's,Art therapist,90592,"Books, Science",Budget
+CUSTID_45,Henry Collier PhD,57,Male,High School,Information officer,84554,Entertainment,Budget
+CUSTID_46,Stephanie Hendrix,31,Female,Bachelor's,Chartered public finance accountant,125958,Sports,Fashion
+CUSTID_47,Robert Davis,45,Female,PhD,"Biochemist, clinical",40070,Beauty,"Tech-Savvy, AI"
+CUSTID_48,Laura Rodriguez,29,Male,High School,Printmaker,75318,Home-Decor,Fashion
+CUSTID_49,Andrew Smith,28,Female,Bachelor's,Teaching laboratory technician,60552,Home-Decor,Budget
+CUSTID_50,David Watson,29,Female,PhD,Automotive engineer,130548,"Books, Science",Luxury
+CUSTID_51,Lisa Murphy,54,Male,High School,Police officer,105253,Technology,Budget
+CUSTID_52,Joshua Shepherd,63,Male,High School,Commercial art gallery manager,114466,Music,Beauty
+CUSTID_53,Joseph Richardson,29,Female,High School,Teaching laboratory technician,121809,Finance,"Tech-Savvy, AI"
+CUSTID_54,Jacob Weaver,41,Female,PhD,Artist,130862,Entertainment,Luxury
+CUSTID_55,Jessica Manning,26,Male,PhD,Quality manager,37617,Fashion,Beauty
+CUSTID_56,Susan Short,49,Female,Bachelor's,Arboriculturist,103177,"Books, Science",Budget
+CUSTID_57,Deanna Pruitt,22,Male,PhD,Research scientist (medical),62220,Technology,Budget
+CUSTID_58,Miranda Jones,58,Male,Bachelor's,Careers information officer,138955,Sports,Beauty
+CUSTID_59,John Houston,65,Male,PhD,Product manager,63939,Music,"Tech-Savvy, AI"
+CUSTID_60,Cassandra Smith,18,Female,High School,Clinical psychologist,142470,Home-Decor,"Tech-Savvy, AI"
+CUSTID_61,Pamela Taylor,48,Male,PhD,Corporate treasurer,132773,Beauty,Luxury
+CUSTID_62,Dawn Walker,22,Female,Master's,"Education officer, community",47380,Fashion,Beauty
+CUSTID_63,Michael Hodges Jr.,36,Male,High School,Magazine features editor,146946,Gaming,Beauty
+CUSTID_64,Trevor Cruz,64,Female,Bachelor's,Museum/gallery exhibitions officer,135960,Fashion,Eco-Friendly
+CUSTID_65,Joanne Solomon,63,Female,PhD,Psychiatrist,67741,"Books, Science","Tech-Savvy, AI"
+CUSTID_66,Charles Neal,20,Male,Bachelor's,Clinical molecular geneticist,103640,Home-Decor,Beauty
+CUSTID_67,Brian Walker,49,Female,Master's,English as a foreign language teacher,136739,Technology,"Tech-Savvy, AI"
+CUSTID_68,Monica Lowe,38,Male,Master's,"Designer, furniture",32425,"Books, Science",Budget
+CUSTID_69,Laura Bailey,29,Female,Master's,TEFL teacher,31551,Home-Decor,Fashion
+CUSTID_70,Matthew Owen,40,Male,High School,"Librarian, academic",49558,Fashion,Eco-Friendly
+CUSTID_71,Jessica Bush,55,Female,Bachelor's,Web designer,51993,Entertainment,Budget
+CUSTID_72,Jose Baker,54,Female,High School,"Engineer, communications",146241,Music,"Tech-Savvy, AI"
+CUSTID_73,Kristy Patton,41,Female,PhD,Multimedia specialist,44946,Entertainment,Budget
+CUSTID_74,Shirley Robles,62,Male,Master's,Museum education officer,62068,Finance,"Tech-Savvy, AI"
+CUSTID_75,Maria Singleton,21,Female,PhD,"Nurse, mental health",103017,Fashion,Luxury
+CUSTID_76,John Brown,25,Male,PhD,"Surveyor, hydrographic",101083,Sports,"Tech-Savvy, AI"
+CUSTID_77,Aaron Fernandez,44,Male,Master's,Commercial art gallery manager,36841,Sports,Budget
+CUSTID_78,Richard Fuentes,47,Female,High School,IT consultant,48214,Music,"Tech-Savvy, AI"
+CUSTID_79,Anne Perry,60,Male,PhD,Social researcher,50003,Entertainment,Luxury
+CUSTID_80,Jaime Sanchez,22,Male,High School,Herbalist,77389,Beauty,Eco-Friendly
+CUSTID_81,Alicia Jackson,21,Male,Master's,Bookseller,137108,Beauty,Beauty
+CUSTID_82,Nicholas Juarez,31,Female,Bachelor's,Arts development officer,67376,Beauty,Fashion
+CUSTID_83,Douglas Ramirez,31,Female,PhD,Public librarian,32716,Technology,"Tech-Savvy, AI"
+CUSTID_84,Jenny Jackson,65,Male,PhD,Advice worker,52667,Technology,Budget
+CUSTID_85,Jose Valdez,20,Female,High School,Sub,43433,Entertainment,Budget
+CUSTID_86,Jaime Goodwin,60,Male,High School,Multimedia programmer,47222,Beauty,Fashion
+CUSTID_87,Jessica Flores,30,Male,High School,"Research officer, political party",85582,Technology,Beauty
+CUSTID_88,Christina Knapp,33,Female,High School,Sports coach,120903,Home-Decor,Budget
+CUSTID_89,Karen Gonzalez,40,Female,Bachelor's,"Civil engineer, consulting",119582,Entertainment,Eco-Friendly
+CUSTID_90,Brianna Cox,33,Female,Bachelor's,Building surveyor,70503,Fashion,Budget
+CUSTID_91,Greg Baker,49,Female,High School,"Nurse, learning disability",71308,Entertainment,Beauty
+CUSTID_92,Laura Larson,48,Female,High School,"Engineer, production",124787,Technology,Budget
+CUSTID_93,Darius Matthews,65,Female,Master's,"Programmer, multimedia",50711,Fashion,"Tech-Savvy, AI"
+CUSTID_94,Tracy Greer,39,Male,Bachelor's,Personal assistant,73705,Technology,Budget
+CUSTID_95,Melody Lewis,23,Male,Bachelor's,"Presenter, broadcasting",73912,Music,"Tech-Savvy, AI"
+CUSTID_96,Yvonne Keller,60,Male,PhD,Chief Financial Officer,36996,Beauty,Beauty
+CUSTID_97,Shannon Lozano,28,Female,High School,"Engineer, control and instrumentation",88376,Music,Fashion
+CUSTID_98,Matthew Black,44,Female,Master's,"Conservator, furniture",100491,Music,"Tech-Savvy, AI"
+CUSTID_99,John Brock,42,Female,High School,Radio producer,63340,Entertainment,Beauty
+CUSTID_100,Kimberly Turner,63,Female,PhD,Biomedical engineer,128895,Beauty,Fashion
+CUSTID_101,Elizabeth Meyer,35,Male,Bachelor's,Government social research officer,144577,Beauty,Beauty
+CUSTID_102,Tonya Dougherty,49,Male,Master's,Planning and development surveyor,129440,Music,"Tech-Savvy, AI"
+CUSTID_103,Tina Gibson,24,Female,Master's,Clinical psychologist,77845,Fashion,Fashion
+CUSTID_104,Jody Cruz,45,Male,Bachelor's,"Engineer, biomedical",129400,"Books, Science",Eco-Friendly
+CUSTID_105,Gina Buck,34,Male,Bachelor's,Housing manager/officer,127678,Home-Decor,Eco-Friendly
+CUSTID_106,David Gonzalez,50,Male,Master's,Garment/textile technologist,135677,Beauty,Eco-Friendly
+CUSTID_107,Melissa Rollins,60,Male,High School,Tourism officer,111319,Technology,"Tech-Savvy, AI"
+CUSTID_108,James Spears,33,Male,Bachelor's,"Engineer, structural",52435,Technology,"Tech-Savvy, AI"
+CUSTID_109,Christine Bryant,60,Female,PhD,Therapeutic radiographer,131992,Entertainment,Eco-Friendly
+CUSTID_110,Anna Wheeler,64,Female,PhD,"Engineer, land",90080,"Books, Science",Fashion
+CUSTID_111,Angel James,39,Female,Bachelor's,"Engineer, communications",64723,Fashion,Beauty
+CUSTID_112,Kendra Henderson,20,Female,PhD,Air cabin crew,128799,Finance,Luxury
+CUSTID_113,Scott Graves,41,Female,Master's,Catering manager,57709,Technology,Fashion
+CUSTID_114,Judith Noble,31,Female,PhD,"Engineer, water",60915,Beauty,Eco-Friendly
+CUSTID_115,Daniel Davidson,42,Female,High School,Nature conservation officer,68296,Home-Decor,Fashion
+CUSTID_116,Sean Blackburn,39,Male,High School,Civil Service fast streamer,147414,Home-Decor,"Tech-Savvy, AI"
+CUSTID_117,Christine Johnson,63,Male,PhD,Occupational therapist,93936,Technology,Eco-Friendly
+CUSTID_118,Tracy Mason,19,Male,Master's,Theme park manager,46746,Home-Decor,Budget
+CUSTID_119,Adam Roberts,42,Female,Master's,Chartered certified accountant,84408,Finance,Beauty
+CUSTID_120,John Pena,19,Male,High School,Chartered public finance accountant,116393,Entertainment,Eco-Friendly
+CUSTID_121,Judy Schmidt,40,Female,High School,"Scientist, biomedical",121815,Sports,Luxury
+CUSTID_122,Shawn Woodard,34,Female,Master's,"Surveyor, commercial/residential",122032,Finance,Beauty
+CUSTID_123,Cody Ramirez,45,Female,Master's,"Programmer, applications",88707,Fashion,"Tech-Savvy, AI"
+CUSTID_124,Kimberly Macias,65,Female,Bachelor's,Insurance account manager,106014,Gaming,Eco-Friendly
+CUSTID_125,Donald Bridges,54,Male,PhD,Operational investment banker,116689,Sports,Luxury
+CUSTID_126,Wanda Skinner,58,Female,Bachelor's,"Secretary, company",82869,Entertainment,Luxury
+CUSTID_127,Wendy Jones,37,Male,PhD,Secondary school teacher,147900,Technology,"Tech-Savvy, AI"
+CUSTID_128,Johnathan Soto,42,Female,Master's,"Librarian, academic",43094,Fashion,Beauty
+CUSTID_129,Jennifer Stephens,22,Female,Bachelor's,Visual merchandiser,92740,Finance,Fashion
+CUSTID_130,Latoya Taylor,33,Male,PhD,"Teacher, special educational needs",108990,Music,Luxury
+CUSTID_131,Sabrina Rose,52,Male,PhD,Glass blower/designer,33466,Music,Fashion
+CUSTID_132,Courtney Wilkins,36,Female,High School,Primary school teacher,87415,Music,Budget
+CUSTID_133,Kelly Frey,43,Female,PhD,Health visitor,123850,Technology,"Tech-Savvy, AI"
+CUSTID_134,Jamie Wilson,56,Female,Master's,Environmental health practitioner,50571,Home-Decor,Beauty
+CUSTID_135,Jennifer Smith,63,Female,High School,"Runner, broadcasting/film/video",115859,Gaming,Luxury
+CUSTID_136,Catherine King,25,Male,High School,Research scientist (life sciences),91204,Music,Beauty
+CUSTID_137,Sarah Mills,64,Male,Master's,Ranger/warden,149841,Fashion,Luxury
+CUSTID_138,Laura Young,33,Male,High School,Geophysicist/field seismologist,32052,Sports,"Tech-Savvy, AI"
+CUSTID_139,Calvin Berg,58,Male,Master's,Equality and diversity officer,69942,Entertainment,Beauty
+CUSTID_140,John Montes,38,Male,High School,Psychiatric nurse,118105,Music,Eco-Friendly
+CUSTID_141,Joshua Martin,51,Female,High School,Insurance underwriter,106530,Gaming,Beauty
+CUSTID_142,John Sampson,33,Female,Master's,Electrical engineer,107472,Gaming,Eco-Friendly
+CUSTID_143,Melissa Anderson,60,Male,Master's,Theatre director,82301,Fashion,Luxury
+CUSTID_144,Paula Ware,20,Female,PhD,Microbiologist,54584,Technology,Beauty
+CUSTID_145,Tommy Warren,38,Male,Master's,Data scientist,54126,Beauty,Budget
+CUSTID_146,Natasha Mcdonald,50,Male,Bachelor's,Fish farm manager,35170,Technology,Budget
+CUSTID_147,Robert Brock,44,Male,PhD,Herbalist,88090,Technology,Fashion
+CUSTID_148,Mary Curtis,36,Female,High School,Logistics and distribution manager,103963,Technology,Budget
+CUSTID_149,Valerie Knox,55,Male,Master's,Research scientist (medical),139438,Home-Decor,Beauty
+CUSTID_150,Annette Mendoza,42,Male,Bachelor's,"Engineer, technical sales",128325,"Books, Science",Luxury
+CUSTID_151,Briana Foster,47,Female,Master's,Civil Service fast streamer,76489,"Books, Science",Beauty
+CUSTID_152,Melissa Perkins,57,Female,Master's,"Engineer, production",123922,Beauty,Fashion
+CUSTID_153,Vanessa Pena,42,Male,High School,Call centre manager,82471,Sports,Eco-Friendly
+CUSTID_154,Mr. James Brown MD,55,Male,Master's,Multimedia specialist,47994,Beauty,Eco-Friendly
+CUSTID_155,Julie Cisneros,47,Female,High School,Museum education officer,56246,Entertainment,Fashion
+CUSTID_156,John Evans,57,Female,High School,Community education officer,116298,Finance,Luxury
+CUSTID_157,Earl Bell,38,Male,Bachelor's,Facilities manager,42054,Finance,Luxury
+CUSTID_158,Amber Rodriguez,32,Male,Bachelor's,"Conservation officer, historic buildings",98572,Music,Eco-Friendly
+CUSTID_159,Pamela Morales,24,Female,High School,Drilling engineer,141972,Fashion,Budget
+CUSTID_160,Kristie Cohen,33,Female,PhD,Research scientist (physical sciences),119472,Sports,Luxury
+CUSTID_161,Joshua Gross,34,Female,Master's,Agricultural engineer,86486,Music,"Tech-Savvy, AI"
+CUSTID_162,Laura Harrison,34,Male,Bachelor's,Patent examiner,136766,Gaming,Budget
+CUSTID_163,James Jordan,52,Female,PhD,"Scientist, water quality",31734,Sports,Fashion
+CUSTID_164,Ernest Cole,55,Male,PhD,Food technologist,141962,Sports,Luxury
+CUSTID_165,Margaret Roberts,36,Female,High School,"Engineer, maintenance (IT)",69653,Entertainment,Eco-Friendly
+CUSTID_166,Meghan Washington,56,Male,High School,Contractor,52759,Gaming,Fashion
+CUSTID_167,April Mcintyre,30,Male,Master's,Petroleum engineer,34997,Sports,Eco-Friendly
+CUSTID_168,Danielle Allen,53,Male,Bachelor's,Printmaker,138062,Entertainment,Budget
+CUSTID_169,Vanessa Anderson,49,Female,PhD,Hydrologist,63170,Fashion,Beauty
+CUSTID_170,Brittany Bowman,44,Male,Master's,"Designer, ceramics/pottery",68977,Music,Budget
+CUSTID_171,Sarah Alvarez,65,Female,Master's,"Engineer, technical sales",71253,Finance,Fashion
+CUSTID_172,Brian Gonzales,53,Female,PhD,Arboriculturist,79251,Gaming,"Tech-Savvy, AI"
+CUSTID_173,Vanessa Bradley,46,Male,High School,Animator,139278,Music,Fashion
+CUSTID_174,Jessica Watts,62,Female,High School,Furniture designer,76924,Home-Decor,"Tech-Savvy, AI"
+CUSTID_175,Jesse Bailey,23,Male,Bachelor's,Armed forces training and education officer,91778,Sports,Beauty
+CUSTID_176,Anthony Steele,52,Male,High School,"Designer, interior/spatial",131498,Fashion,Luxury
+CUSTID_177,James White,39,Male,PhD,Futures trader,31676,Music,Beauty
+CUSTID_178,Jon Mckinney,18,Female,High School,Sports administrator,38575,Entertainment,Luxury
+CUSTID_179,Elaine Smith,43,Male,Bachelor's,Diplomatic Services operational officer,114251,Home-Decor,Budget
+CUSTID_180,Tiffany Horn,49,Female,Bachelor's,"Administrator, education",113533,Home-Decor,Luxury
+CUSTID_181,Andrew Alexander,59,Female,PhD,"Accountant, chartered management",63461,Technology,Eco-Friendly
+CUSTID_182,Jamie Salazar MD,25,Female,Master's,Primary school teacher,104676,Music,Beauty
+CUSTID_183,Brent Hernandez,48,Male,High School,"Development worker, community",109754,Music,Budget
+CUSTID_184,Tammy Thompson,31,Male,Master's,"Editor, commissioning",91941,Fashion,Budget
+CUSTID_185,Thomas Duncan,60,Female,Bachelor's,"Engineer, structural",136343,Finance,Beauty
+CUSTID_186,Sheri Moore,48,Female,High School,Insurance claims handler,119674,Fashion,Beauty
+CUSTID_187,Mary Mccoy,63,Female,Bachelor's,Public relations account executive,128831,Sports,Fashion
+CUSTID_188,Ryan Crawford,47,Female,PhD,Health promotion specialist,131412,Technology,"Tech-Savvy, AI"
+CUSTID_189,Samuel Hoover,33,Male,High School,"Accountant, chartered management",105391,Finance,"Tech-Savvy, AI"
+CUSTID_190,Mr. Jason Harrington,41,Female,Master's,Drilling engineer,72844,"Books, Science",Budget
+CUSTID_191,Kelsey Gardner,37,Male,PhD,Scientific laboratory technician,126707,Finance,Luxury
+CUSTID_192,John Macdonald,37,Female,Master's,IT consultant,97665,Technology,Budget
+CUSTID_193,Matthew Fields,27,Female,Bachelor's,Radiation protection practitioner,113032,Entertainment,"Tech-Savvy, AI"
+CUSTID_194,Michael Miller,36,Male,PhD,Television camera operator,120194,Beauty,Fashion
+CUSTID_195,Terry Henry,57,Female,Bachelor's,Theme park manager,43353,Gaming,Luxury
+CUSTID_196,Daniel Reid,38,Female,High School,Location manager,108339,Sports,Luxury
+CUSTID_197,Jeremy Snyder,55,Female,Bachelor's,Garment/textile technologist,50811,Beauty,Fashion
+CUSTID_198,James Daniels,23,Male,PhD,"Scientist, research (physical sciences)",109260,"Books, Science",Beauty
+CUSTID_199,Frank Medina,40,Female,PhD,Armed forces technical officer,117121,Finance,Luxury
+CUSTID_200,Tiffany Brooks,36,Female,Bachelor's,Environmental manager,83112,Finance,Eco-Friendly
+CUSTID_201,Grace Brady,35,Female,High School,"Sound technician, broadcasting/film/video",94144,"Books, Science",Luxury
+CUSTID_202,Debra Clark,28,Female,Bachelor's,TEFL teacher,82325,Home-Decor,"Tech-Savvy, AI"
+CUSTID_203,Zachary Kirk,50,Female,PhD,Cartographer,141063,Fashion,"Tech-Savvy, AI"
+CUSTID_204,Albert Fowler,49,Female,High School,"Secretary, company",32044,Finance,"Tech-Savvy, AI"
+CUSTID_205,Jacob Gomez,28,Male,Bachelor's,Naval architect,147408,Beauty,"Tech-Savvy, AI"
+CUSTID_206,Samantha Hatfield,44,Female,High School,Community arts worker,99987,Music,Luxury
+CUSTID_207,Michele Hill,49,Female,Master's,Actor,126592,Technology,Beauty
+CUSTID_208,Amanda Reid,20,Male,Bachelor's,Astronomer,120042,Music,Budget
+CUSTID_209,Kelly Dunn,65,Female,Master's,"Production assistant, radio",85141,Finance,Budget
+CUSTID_210,Alexander Wang,57,Female,PhD,"Optician, dispensing",88916,Beauty,Eco-Friendly
+CUSTID_211,Dustin Davis,22,Female,PhD,Medical secretary,60370,"Books, Science",Eco-Friendly
+CUSTID_212,William Colon,33,Male,Master's,Event organiser,85833,Gaming,Eco-Friendly
+CUSTID_213,Joshua Jackson,64,Male,PhD,Arts development officer,134812,Technology,Luxury
+CUSTID_214,Michelle Burgess,48,Male,PhD,Occupational hygienist,69252,Entertainment,Budget
+CUSTID_215,Eric Lopez,22,Male,Master's,"Teacher, secondary school",54766,Sports,Luxury
+CUSTID_216,Alvin Sheppard,38,Male,PhD,Aeronautical engineer,136814,Finance,Fashion
+CUSTID_217,Lisa Perez,40,Male,PhD,Radiation protection practitioner,68908,Beauty,Budget
+CUSTID_218,Denise Allison,22,Female,High School,"Surveyor, building",147456,Finance,Eco-Friendly
+CUSTID_219,Robert Gutierrez,61,Male,Bachelor's,Tax inspector,82972,Technology,"Tech-Savvy, AI"
+CUSTID_220,Emily Williams,52,Female,PhD,Dance movement psychotherapist,145478,Gaming,Beauty
+CUSTID_221,Alan Rogers,36,Male,Master's,"Engineer, broadcasting (operations)",40781,Fashion,Luxury
+CUSTID_222,Tyler Austin,56,Female,PhD,Geoscientist,35681,Music,Budget
+CUSTID_223,Mark Wolfe,48,Male,High School,"Editor, commissioning",49999,Finance,"Tech-Savvy, AI"
+CUSTID_224,Barbara Willis,41,Male,High School,Public librarian,105132,Home-Decor,Budget
+CUSTID_225,Brianna Peterson DVM,53,Male,High School,Analytical chemist,83478,Music,Fashion
+CUSTID_226,Holly Reyes,55,Male,High School,Environmental health practitioner,41018,Beauty,Beauty
+CUSTID_227,Patrick Ward,46,Female,High School,Sports development officer,54433,Gaming,"Tech-Savvy, AI"
+CUSTID_228,Curtis Morrow,43,Male,Bachelor's,"Research officer, government",97611,Beauty,Luxury
+CUSTID_229,Clifford Macias,49,Male,High School,"Engineer, materials",101948,Home-Decor,Eco-Friendly
+CUSTID_230,Brian Wiley,49,Female,Master's,Dentist,34545,Sports,Beauty
+CUSTID_231,Kelly Blake,38,Male,High School,"Engineer, technical sales",113582,Finance,Budget
+CUSTID_232,Gabriel Smith,22,Male,PhD,Meteorologist,91720,Gaming,Eco-Friendly
+CUSTID_233,Brandon Contreras,57,Female,Bachelor's,Furniture designer,111988,Fashion,"Tech-Savvy, AI"
+CUSTID_234,Brenda Montoya,42,Female,High School,"Journalist, newspaper",52524,Entertainment,"Tech-Savvy, AI"
+CUSTID_235,Courtney Harris,25,Male,Master's,Travel agency manager,100585,Technology,Budget
+CUSTID_236,Lori Garcia,33,Male,Bachelor's,Learning disability nurse,68346,"Books, Science",Eco-Friendly
+CUSTID_237,Mr. William Gomez,21,Male,Master's,"Engineer, manufacturing systems",128018,Fashion,Eco-Friendly
+CUSTID_238,Alicia Lane,29,Male,High School,Sport and exercise psychologist,58948,Entertainment,Eco-Friendly
+CUSTID_239,Joann Maldonado,65,Male,High School,Industrial/product designer,139804,Music,Eco-Friendly
+CUSTID_240,Christina Davis,45,Female,Master's,Industrial/product designer,43455,Finance,Budget
+CUSTID_241,Dr. Katelyn Black,31,Female,PhD,"Research officer, trade union",41256,Finance,Budget
+CUSTID_242,Katelyn Taylor,37,Female,High School,Hospital pharmacist,90683,Fashion,Fashion
+CUSTID_243,Cassandra Shields,36,Male,PhD,"Research officer, government",54308,Beauty,Fashion
+CUSTID_244,Christopher Franco,22,Male,High School,Geophysicist/field seismologist,54098,Finance,Beauty
+CUSTID_245,Kevin Juarez,56,Female,Master's,Politician's assistant,122668,Fashion,Beauty
+CUSTID_246,Christopher Jones,65,Male,Master's,Hospital doctor,85917,Entertainment,Eco-Friendly
+CUSTID_247,Jason Scott,65,Female,Master's,"Surveyor, land/geomatics",108046,Sports,Budget
+CUSTID_248,Benjamin Nguyen,61,Male,PhD,Dramatherapist,116972,Technology,Fashion
+CUSTID_249,Mr. Blake Garcia,37,Male,High School,Warden/ranger,84338,Sports,Budget
+CUSTID_250,Lawrence Barry,47,Male,PhD,"Librarian, academic",146531,Home-Decor,Fashion
+CUSTID_251,Amy Gray,36,Female,PhD,"Engineer, civil (consulting)",85711,Sports,Fashion
+CUSTID_252,Diana Banks,32,Female,Bachelor's,Mining engineer,108448,Home-Decor,Luxury
+CUSTID_253,Kaitlin Harrison,51,Female,PhD,"Accountant, chartered",147637,"Books, Science",Beauty
+CUSTID_254,Emily Kennedy,26,Male,Master's,Field seismologist,108981,Sports,Fashion
+CUSTID_255,Ryan Willis,61,Male,PhD,Publishing copy,52374,Music,"Tech-Savvy, AI"
+CUSTID_256,Justin Duran,51,Female,High School,Fine artist,91882,Technology,Beauty
+CUSTID_257,Anthony Ramirez DVM,18,Female,High School,Musician,85105,Fashion,"Tech-Savvy, AI"
+CUSTID_258,Marilyn Schmidt,20,Female,PhD,"Secretary, company",57742,Music,"Tech-Savvy, AI"
+CUSTID_259,Erin Barker,63,Male,High School,Restaurant manager,81163,Sports,"Tech-Savvy, AI"
+CUSTID_260,Samantha Long,29,Female,PhD,"Conservator, furniture",76100,Finance,Fashion
+CUSTID_261,Michael Mitchell,18,Female,Master's,Theatre manager,96789,Gaming,Eco-Friendly
+CUSTID_262,Charlene Branch,50,Male,High School,Forensic scientist,47934,Beauty,"Tech-Savvy, AI"
+CUSTID_263,Marc Duke,60,Female,High School,"Designer, exhibition/display",110396,Beauty,Eco-Friendly
+CUSTID_264,Tiffany Davidson,45,Female,Bachelor's,Marketing executive,77101,Gaming,Fashion
+CUSTID_265,Martha Smith,59,Male,Master's,"Designer, jewellery",91258,Finance,Eco-Friendly
+CUSTID_266,Stephen Baker,64,Male,Bachelor's,Financial planner,106144,Music,Eco-Friendly
+CUSTID_267,Sandra Prince,47,Male,Master's,"Engineer, mining",133225,Gaming,Beauty
+CUSTID_268,Scott Roberts,47,Male,PhD,"Editor, magazine features",60030,Gaming,"Tech-Savvy, AI"
+CUSTID_269,Lisa Davis,56,Female,Bachelor's,Pharmacologist,102340,Beauty,Beauty
+CUSTID_270,Nancy Gates,26,Male,High School,"Psychologist, occupational",74787,Gaming,Fashion
+CUSTID_271,Clarence Patterson,23,Male,Master's,Lobbyist,81416,Beauty,Fashion
+CUSTID_272,Victoria Duran,21,Male,High School,Telecommunications researcher,42949,Technology,Budget
+CUSTID_273,Ashley Fox,42,Male,Master's,"Engineer, mining",57967,Fashion,Fashion
+CUSTID_274,Cynthia Buchanan,37,Female,Master's,Agricultural engineer,50238,Gaming,Luxury
+CUSTID_275,Ian Harmon,59,Male,Bachelor's,English as a foreign language teacher,79022,Fashion,Luxury
+CUSTID_276,Anna Sweeney,35,Male,Master's,"Engineer, civil (contracting)",61258,Sports,Fashion
+CUSTID_277,Lance Wallace,56,Male,Bachelor's,Commercial horticulturist,109784,Sports,Budget
+CUSTID_278,Randall Lester,21,Male,Bachelor's,Copy,141964,Sports,Beauty
+CUSTID_279,Lisa Sexton,49,Male,PhD,Physiotherapist,77980,Home-Decor,Beauty
+CUSTID_280,Daniel Sexton,65,Female,High School,Higher education lecturer,42725,Sports,Budget
+CUSTID_281,Anna Jackson,45,Male,PhD,Prison officer,102067,Entertainment,Fashion
+CUSTID_282,Thomas Martinez,55,Female,High School,Freight forwarder,135463,Finance,Budget
+CUSTID_283,Mary Zuniga,33,Male,PhD,"Programmer, systems",55409,Gaming,Beauty
+CUSTID_284,Jennifer Ramos,19,Female,PhD,Television floor manager,148030,Beauty,Eco-Friendly
+CUSTID_285,Jennifer Ramos,24,Female,High School,Quarry manager,76597,Beauty,Budget
+CUSTID_286,Jordan Johnson,27,Female,High School,Economist,143336,Finance,"Tech-Savvy, AI"
+CUSTID_287,Kevin Montgomery,44,Male,PhD,Commercial/residential surveyor,36430,Sports,Budget
+CUSTID_288,Matthew Perkins,60,Female,Bachelor's,Horticultural consultant,85942,Gaming,Beauty
+CUSTID_289,Frank Gross,23,Female,Master's,Barista,92411,Entertainment,Budget
+CUSTID_290,Valerie Charles,20,Female,High School,Leisure centre manager,53427,Fashion,Eco-Friendly
+CUSTID_291,Sean Matthews,28,Male,High School,Technical brewer,49965,Entertainment,Luxury
+CUSTID_292,Barbara Johnson,29,Male,Bachelor's,Environmental manager,121591,Music,Beauty
+CUSTID_293,Gregory Rogers,32,Male,PhD,Dance movement psychotherapist,41717,Fashion,Beauty
+CUSTID_294,Sarah Franco,32,Male,High School,Environmental consultant,145250,Sports,"Tech-Savvy, AI"
+CUSTID_295,Susan Villegas,59,Female,High School,Research scientist (life sciences),51317,Technology,Fashion
+CUSTID_296,Sarah Thompson,27,Male,High School,"Teacher, music",54951,Entertainment,Fashion
+CUSTID_297,Nicholas Dean,29,Male,Bachelor's,Animal technologist,50977,Finance,Eco-Friendly
+CUSTID_298,Robert Davis,18,Female,PhD,Paediatric nurse,110021,Beauty,Luxury
+CUSTID_299,Cody Lee,40,Male,Master's,Probation officer,83040,Home-Decor,Fashion
+CUSTID_300,Christopher Harris,26,Male,Bachelor's,Information officer,142218,Fashion,Budget
+CUSTID_301,Mary Bennett,51,Male,PhD,Technical brewer,63191,"Books, Science",Fashion
+CUSTID_302,Dawn Cardenas,57,Female,PhD,Personal assistant,39299,Technology,Luxury
+CUSTID_303,Jonathan Miller,43,Female,Bachelor's,Legal secretary,51232,Music,Budget
+CUSTID_304,Wayne Turner,36,Female,Master's,Careers information officer,119346,Music,Fashion
+CUSTID_305,Roger Torres,26,Female,PhD,Risk analyst,39410,"Books, Science",Fashion
+CUSTID_306,Heidi Cooper,60,Female,Master's,Leisure centre manager,96463,Sports,Luxury
+CUSTID_307,Tonya Martinez,39,Male,Bachelor's,Stage manager,147045,Gaming,Budget
+CUSTID_308,John Sanchez,18,Male,PhD,Optometrist,136480,Sports,Luxury
+CUSTID_309,Sarah Miranda,29,Male,Master's,Police officer,80961,Finance,Budget
+CUSTID_310,Krista Cummings,54,Female,Bachelor's,Stage manager,81172,Entertainment,Eco-Friendly
+CUSTID_311,Julian Johnson,32,Female,Bachelor's,"Restaurant manager, fast food",121536,Gaming,"Tech-Savvy, AI"
+CUSTID_312,Andrew Hines,59,Male,Bachelor's,"Programmer, applications",88932,Gaming,Luxury
+CUSTID_313,Lisa Johnson,58,Male,High School,Proofreader,106589,Home-Decor,Eco-Friendly
+CUSTID_314,Ana Duncan,64,Male,PhD,Press photographer,72478,Finance,Fashion
+CUSTID_315,Kevin Noble,36,Male,High School,Information systems manager,89907,Gaming,Budget
+CUSTID_316,Johnny Rojas,34,Female,Master's,Jewellery designer,140450,Beauty,"Tech-Savvy, AI"
+CUSTID_317,Mackenzie Savage,31,Male,Bachelor's,"Pharmacist, hospital",96190,Music,Budget
+CUSTID_318,John Pearson,34,Female,High School,Oncologist,37517,"Books, Science",Luxury
+CUSTID_319,James Walker,55,Male,Master's,"Therapist, occupational",34406,Home-Decor,"Tech-Savvy, AI"
+CUSTID_320,Tiffany Shaw,50,Female,Bachelor's,"Programmer, applications",102801,"Books, Science",Eco-Friendly
+CUSTID_321,David Quinn DDS,26,Male,Bachelor's,Legal executive,132406,Music,Fashion
+CUSTID_322,Meredith Harper,62,Female,Bachelor's,Chartered loss adjuster,118579,Entertainment,Budget
+CUSTID_323,Taylor Rivera,34,Male,Master's,Holiday representative,59314,"Books, Science",Budget
+CUSTID_324,Ryan Jones,47,Female,Master's,Geographical information systems officer,86081,Sports,"Tech-Savvy, AI"
+CUSTID_325,Zachary Hoffman,45,Female,High School,Regulatory affairs officer,140802,Sports,Fashion
+CUSTID_326,Savannah Sanders,65,Female,High School,Publishing copy,64875,Music,Budget
+CUSTID_327,Joel Lamb,50,Male,High School,Oncologist,109845,Sports,Fashion
+CUSTID_328,George Miller,44,Female,PhD,Learning mentor,63263,Beauty,Luxury
+CUSTID_329,Teresa Richard,44,Male,Bachelor's,Airline pilot,44799,Gaming,Budget
+CUSTID_330,Robin Taylor,52,Female,High School,"Therapist, art",136892,Beauty,Budget
+CUSTID_331,Gwendolyn Medina,23,Male,Bachelor's,Maintenance engineer,140473,Music,Beauty
+CUSTID_332,Jennifer Frank,52,Female,Bachelor's,"Production assistant, television",138234,Finance,"Tech-Savvy, AI"
+CUSTID_333,Yvonne Ellis,42,Male,High School,Television camera operator,82773,Beauty,Fashion
+CUSTID_334,Katherine Wilson,44,Female,PhD,Best boy,63091,"Books, Science",Luxury
+CUSTID_335,Mr. Christopher Torres,64,Male,PhD,IT sales professional,38195,Sports,Eco-Friendly
+CUSTID_336,April Goodman,30,Male,High School,Food technologist,42309,Sports,Budget
+CUSTID_337,Thomas Porter,20,Female,Bachelor's,Risk manager,140359,Technology,Beauty
+CUSTID_338,Jonathan Norman,18,Male,Bachelor's,Intelligence analyst,92965,Fashion,Luxury
+CUSTID_339,Dennis Freeman,35,Female,Bachelor's,Community pharmacist,58795,"Books, Science",Beauty
+CUSTID_340,Brooke Torres,56,Male,Bachelor's,"Engineer, biomedical",108667,Sports,Eco-Friendly
+CUSTID_341,Brenda Ortiz,32,Female,PhD,Youth worker,101224,Gaming,Eco-Friendly
+CUSTID_342,Leslie Kirby,42,Female,Master's,Health service manager,58368,Beauty,Budget
+CUSTID_343,Joshua Garrett,60,Male,Master's,Contracting civil engineer,42018,"Books, Science",Luxury
+CUSTID_344,Daniel Medina,61,Female,PhD,"Engineer, control and instrumentation",43517,"Books, Science",Luxury
+CUSTID_345,James Smith,28,Female,High School,Medical secretary,145387,Entertainment,Fashion
+CUSTID_346,Michael Mora,46,Female,Bachelor's,"Radiographer, therapeutic",128358,Sports,Budget
+CUSTID_347,Barry Washington,40,Male,Master's,"Journalist, broadcasting",136308,Fashion,Beauty
+CUSTID_348,Noah Smith,64,Male,High School,Ceramics designer,143776,"Books, Science",Fashion
+CUSTID_349,Connie Evans,35,Male,Master's,Chief Technology Officer,30832,Finance,Beauty
+CUSTID_350,Mark Mason,36,Male,PhD,Chartered legal executive (England and Wales),35732,Entertainment,Fashion
+CUSTID_351,Patrick Ellis,54,Male,Bachelor's,"Sound technician, broadcasting/film/video",101665,Technology,Beauty
+CUSTID_352,Gabriela Jackson,51,Male,PhD,Air traffic controller,114047,Technology,Beauty
+CUSTID_353,Traci Mcguire,47,Male,Bachelor's,English as a second language teacher,144913,Fashion,Eco-Friendly
+CUSTID_354,Robert Buck,56,Male,PhD,"Physicist, medical",39085,Fashion,"Tech-Savvy, AI"
+CUSTID_355,Christopher Dunn,30,Female,Bachelor's,Public house manager,130566,Entertainment,Eco-Friendly
+CUSTID_356,Timothy Jones,56,Male,Master's,Orthoptist,63505,Sports,Fashion
+CUSTID_357,Christopher Solomon,42,Male,PhD,Special educational needs teacher,79284,Beauty,Fashion
+CUSTID_358,Jeffrey White,60,Female,High School,Customer service manager,133142,"Books, Science",Budget
+CUSTID_359,Kyle Castillo,53,Male,PhD,Prison officer,139915,Beauty,Eco-Friendly
+CUSTID_360,Laura Benson MD,49,Male,High School,Automotive engineer,116470,Sports,Fashion
+CUSTID_361,Jeffrey Goodman,63,Male,PhD,Corporate treasurer,74001,Technology,"Tech-Savvy, AI"
+CUSTID_362,Larry Griffin,49,Male,Bachelor's,Clinical cytogeneticist,80202,Entertainment,Fashion
+CUSTID_363,Stephanie Floyd,24,Female,High School,"Engineer, petroleum",118256,Fashion,"Tech-Savvy, AI"
+CUSTID_364,Shawn Morrison,46,Female,High School,Translator,33498,Beauty,Luxury
+CUSTID_365,Mary Hughes,20,Male,PhD,Psychiatrist,81508,Finance,"Tech-Savvy, AI"
+CUSTID_366,Bailey Martin,41,Male,High School,Osteopath,101691,Music,Budget
+CUSTID_367,Yvette Scott,55,Male,Master's,Aid worker,87363,Finance,Fashion
+CUSTID_368,Blake Lucas,59,Female,High School,Editorial assistant,52162,Technology,Eco-Friendly
+CUSTID_369,Victor Mcknight,26,Male,High School,Theatre director,133508,"Books, Science","Tech-Savvy, AI"
+CUSTID_370,Rhonda Bentley,18,Male,PhD,Homeopath,146309,Gaming,Luxury
+CUSTID_371,Courtney Jackson,38,Female,Bachelor's,Veterinary surgeon,46246,Gaming,Budget
+CUSTID_372,Karen Anderson,50,Male,Bachelor's,Commissioning editor,82737,Technology,Fashion
+CUSTID_373,Claudia Smith,51,Male,Master's,Intelligence analyst,73820,Entertainment,Budget
+CUSTID_374,Sarah Williams,39,Male,Master's,"Conservation officer, historic buildings",74122,Home-Decor,Luxury
+CUSTID_375,Nicholas Johnson,20,Female,PhD,Optometrist,57819,Sports,Luxury
+CUSTID_376,Amanda Hudson,63,Male,PhD,Clinical psychologist,70559,Home-Decor,Beauty
+CUSTID_377,Steve Ballard,42,Male,High School,Geophysical data processor,71110,Music,Fashion
+CUSTID_378,Drew Johnson,44,Male,Master's,Translator,106783,Music,"Tech-Savvy, AI"
+CUSTID_379,Julie Thomas,19,Female,PhD,"Therapist, music",82681,Sports,Luxury
+CUSTID_380,Michelle Davis,20,Male,PhD,Exhibition designer,89409,Home-Decor,"Tech-Savvy, AI"
+CUSTID_381,Rodney Mills,52,Male,Bachelor's,Accommodation manager,32704,Finance,Luxury
+CUSTID_382,Kimberly Hill,58,Female,PhD,Rural practice surveyor,130881,Beauty,Beauty
+CUSTID_383,Sarah Sloan,49,Female,High School,"Therapist, horticultural",57419,Home-Decor,Fashion
+CUSTID_384,Nicolas Davis,50,Male,Master's,Graphic designer,52683,Finance,Fashion
+CUSTID_385,Sandra Clay,33,Male,Bachelor's,Animator,109414,Entertainment,Eco-Friendly
+CUSTID_386,Jeffrey Martin,49,Male,High School,Armed forces training and education officer,123568,Beauty,Luxury
+CUSTID_387,Aimee Galloway,48,Male,Bachelor's,Herbalist,136498,Home-Decor,Beauty
+CUSTID_388,Bob Black,22,Female,PhD,Animal nutritionist,124244,Technology,Eco-Friendly
+CUSTID_389,Monica Jones,56,Male,Master's,"Designer, ceramics/pottery",126909,Finance,Luxury
+CUSTID_390,Michael Bailey,34,Male,PhD,Financial manager,121929,Music,Eco-Friendly
+CUSTID_391,Susan Thompson,45,Male,Master's,"Education officer, environmental",41464,Technology,Budget
+CUSTID_392,Colleen Harris,63,Male,Master's,Counselling psychologist,78917,Entertainment,Luxury
+CUSTID_393,Rodney Lang,59,Female,PhD,"Psychologist, sport and exercise",141107,Beauty,Budget
+CUSTID_394,Erica Navarro,20,Female,Master's,Printmaker,69320,Technology,Luxury
+CUSTID_395,Casey Ortiz,57,Male,Bachelor's,"Producer, television/film/video",145328,Home-Decor,Beauty
+CUSTID_396,Tonya Taylor,57,Male,Bachelor's,Social worker,145760,Gaming,Eco-Friendly
+CUSTID_397,James Chavez,43,Female,PhD,Further education lecturer,49115,Gaming,"Tech-Savvy, AI"
+CUSTID_398,David Newton,49,Male,Bachelor's,Science writer,50083,Beauty,Budget
+CUSTID_399,Gilbert Willis,36,Female,Master's,Horticultural consultant,30085,Home-Decor,Budget
+CUSTID_400,Traci Mcgee,43,Male,High School,Community education officer,94110,Sports,Beauty
+CUSTID_401,Kayla Morgan,42,Male,PhD,Mechanical engineer,72810,Beauty,"Tech-Savvy, AI"
+CUSTID_402,Brian Russell,57,Female,Master's,Market researcher,108174,Home-Decor,Budget
+CUSTID_403,Kristin Lopez,33,Female,Bachelor's,"Engineer, agricultural",142189,Fashion,Luxury
+CUSTID_404,Tyler Day,19,Female,Bachelor's,Public house manager,71265,"Books, Science",Budget
+CUSTID_405,Mark Lewis,18,Male,Master's,"Editor, film/video",146337,"Books, Science",Eco-Friendly
+CUSTID_406,Steven Roy,50,Female,PhD,Immunologist,143049,Finance,Fashion
+CUSTID_407,Theresa Salas,23,Female,Master's,Dispensing optician,75989,Entertainment,Luxury
+CUSTID_408,Michael Williams,51,Female,High School,Mental health nurse,146317,Technology,Fashion
+CUSTID_409,Jordan Farmer,61,Female,Bachelor's,Phytotherapist,81990,Gaming,Eco-Friendly
+CUSTID_410,Joshua Carpenter,48,Male,PhD,Transport planner,40946,Music,Beauty
+CUSTID_411,Justin Castaneda,21,Female,PhD,Advertising account executive,87081,Finance,Luxury
+CUSTID_412,Dr. Tyler Lee,28,Female,Master's,"Producer, radio",92101,Sports,"Tech-Savvy, AI"
+CUSTID_413,Daniel Mccarty,25,Female,Bachelor's,Special educational needs teacher,115665,"Books, Science",Luxury
+CUSTID_414,Johnny Pham,34,Female,High School,Market researcher,124082,Sports,Fashion
+CUSTID_415,Stacy Brown,62,Female,PhD,Graphic designer,57767,Technology,Luxury
+CUSTID_416,Robert Bright,45,Male,PhD,Hydrogeologist,125616,Beauty,"Tech-Savvy, AI"
+CUSTID_417,Michelle Cross,31,Male,PhD,"Therapist, music",88510,Music,"Tech-Savvy, AI"
+CUSTID_418,Christian Davis,61,Male,PhD,"Designer, graphic",108064,Beauty,Beauty
+CUSTID_419,Tara Parker,34,Male,Master's,"Psychologist, counselling",80822,Music,Beauty
+CUSTID_420,Cody Washington,19,Female,Bachelor's,Press sub,108228,Technology,Beauty
+CUSTID_421,Michelle Evans,48,Male,Bachelor's,Advertising account executive,146562,Technology,Beauty
+CUSTID_422,Michael Galvan,63,Female,PhD,"Pilot, airline",117655,Finance,Eco-Friendly
+CUSTID_423,Daniel Bryant,21,Male,High School,"Designer, exhibition/display",34067,"Books, Science","Tech-Savvy, AI"
+CUSTID_424,Robert Lee,65,Male,PhD,Intelligence analyst,69916,Finance,"Tech-Savvy, AI"
+CUSTID_425,Sara Rivera,64,Male,High School,Medical technical officer,82462,"Books, Science",Fashion
+CUSTID_426,Darrell Cross,65,Male,High School,"Production designer, theatre/television/film",142105,Home-Decor,Beauty
+CUSTID_427,Rebecca Boyle,20,Male,High School,"Surveyor, mining",93422,Home-Decor,Beauty
+CUSTID_428,Douglas Barr,24,Male,Bachelor's,Architect,43104,Gaming,Luxury
+CUSTID_429,Andre Henry,48,Male,PhD,Sports therapist,63854,Fashion,Beauty
+CUSTID_430,Terry Sanchez,61,Male,PhD,Homeopath,31949,Gaming,Fashion
+CUSTID_431,David Evans,44,Female,High School,Video editor,103689,Technology,Luxury
+CUSTID_432,Marcus Roy,45,Male,High School,Systems developer,68437,"Books, Science",Budget
+CUSTID_433,Andrew Ayala,36,Female,High School,Nutritional therapist,58211,Entertainment,Eco-Friendly
+CUSTID_434,Mario Mccarty,50,Female,High School,Database administrator,121816,Gaming,"Tech-Savvy, AI"
+CUSTID_435,Jessica Duran,59,Male,PhD,Medical sales representative,77255,Sports,Budget
+CUSTID_436,Jesse Gonzalez,55,Male,Master's,Risk manager,125589,Home-Decor,Beauty
+CUSTID_437,Jeffrey Hamilton,48,Female,PhD,Corporate treasurer,30776,Beauty,"Tech-Savvy, AI"
+CUSTID_438,Lisa Cunningham,27,Male,Bachelor's,Product/process development scientist,49281,Sports,Fashion
+CUSTID_439,Paul Marks,38,Male,High School,Microbiologist,117190,Music,Eco-Friendly
+CUSTID_440,Teresa Castillo,63,Male,High School,Production manager,95819,Entertainment,Fashion
+CUSTID_441,Suzanne Barnett,44,Female,Master's,"Buyer, retail",102065,Entertainment,Budget
+CUSTID_442,Kathryn Guzman,59,Male,High School,Counselling psychologist,30180,Gaming,Fashion
+CUSTID_443,Leslie Gomez,35,Female,High School,"Scientist, physiological",131560,Fashion,Budget
+CUSTID_444,John Robinson,40,Female,Bachelor's,Multimedia specialist,65285,Fashion,Luxury
+CUSTID_445,Meghan Stanley,41,Female,High School,"Administrator, Civil Service",112239,Finance,Fashion
+CUSTID_446,Ronald King,35,Male,PhD,Minerals surveyor,61185,Music,Eco-Friendly
+CUSTID_447,Tyler Hines,53,Male,PhD,"Engineer, drilling",116498,Music,Beauty
+CUSTID_448,John Townsend II,33,Male,High School,Photographer,147710,Technology,Fashion
+CUSTID_449,Heather Velazquez,62,Male,Bachelor's,Pathologist,80359,"Books, Science",Eco-Friendly
+CUSTID_450,James Rogers,64,Female,PhD,Insurance risk surveyor,120200,Gaming,Eco-Friendly
+CUSTID_451,Adriana Hutchinson,56,Female,Master's,Air traffic controller,35773,Sports,"Tech-Savvy, AI"
+CUSTID_452,Brittany Miller,49,Female,PhD,Sport and exercise psychologist,67543,"Books, Science",Eco-Friendly
+CUSTID_453,Monica Thompson,61,Female,High School,"Engineer, water",103205,Fashion,Eco-Friendly
+CUSTID_454,Jamie Bradley,47,Female,Bachelor's,"Engineer, petroleum",55599,"Books, Science",Luxury
+CUSTID_455,Anthony Montoya,34,Female,Master's,Records manager,40384,Sports,"Tech-Savvy, AI"
+CUSTID_456,Melanie Bell,41,Male,High School,Counsellor,127705,Music,Luxury
+CUSTID_457,Courtney Santiago,50,Female,PhD,Astronomer,30405,Beauty,Luxury
+CUSTID_458,Joshua Fuller,26,Female,PhD,"Exhibitions officer, museum/gallery",129374,Finance,"Tech-Savvy, AI"
+CUSTID_459,Sarah Ramirez,50,Male,Master's,Midwife,69299,Fashion,Luxury
+CUSTID_460,Anna Bolton,27,Male,Master's,Television floor manager,56226,Gaming,Budget
+CUSTID_461,Derek Orr,60,Male,PhD,"Surveyor, insurance",137921,Entertainment,Beauty
+CUSTID_462,Luis Wright,20,Male,Master's,Human resources officer,93437,Entertainment,Beauty
+CUSTID_463,Cheryl Mills,59,Female,High School,Quarry manager,74710,Beauty,Budget
+CUSTID_464,Margaret Nelson,40,Female,PhD,Psychiatrist,38091,Entertainment,Fashion
+CUSTID_465,Monica Ellis,58,Male,High School,Sports administrator,105009,Sports,Beauty
+CUSTID_466,Jeffery Rice,45,Female,High School,Museum/gallery exhibitions officer,94360,Technology,"Tech-Savvy, AI"
+CUSTID_467,Miss Monica Murphy,29,Male,Master's,"Civil engineer, contracting",115761,"Books, Science",Fashion
+CUSTID_468,Sarah Blake,30,Female,Master's,Quantity surveyor,93684,Fashion,Budget
+CUSTID_469,Christina Hartman,61,Female,High School,"Editor, magazine features",112235,Gaming,Fashion
+CUSTID_470,Angela Wilson,47,Female,Bachelor's,Economist,49556,Gaming,Beauty
+CUSTID_471,Jasmine Banks,35,Female,PhD,Comptroller,64327,Technology,Beauty
+CUSTID_472,Kelsey Hammond,38,Female,High School,"Engineer, materials",78198,Technology,"Tech-Savvy, AI"
+CUSTID_473,Christine Wilcox,30,Female,PhD,Games developer,66130,Sports,Beauty
+CUSTID_474,Michael Bowman,18,Male,Master's,IT sales professional,86604,Beauty,Fashion
+CUSTID_475,Mr. Michael Duran,43,Male,Master's,Physiotherapist,121061,Home-Decor,"Tech-Savvy, AI"
+CUSTID_476,Kristin Lewis,51,Male,Master's,Health service manager,99758,Finance,Luxury
+CUSTID_477,Amber Rodriguez,39,Male,High School,Sport and exercise psychologist,49769,Fashion,"Tech-Savvy, AI"
+CUSTID_478,Bruce Page,18,Female,High School,Planning and development surveyor,76539,Fashion,"Tech-Savvy, AI"
+CUSTID_479,Allison Cooper,59,Female,Bachelor's,Speech and language therapist,39372,Entertainment,Beauty
+CUSTID_480,Scott Willis,27,Male,Master's,Medical technical officer,39341,Gaming,Beauty
+CUSTID_481,Eugene Jacobs,45,Female,High School,Risk analyst,130105,Gaming,Fashion
+CUSTID_482,Natalie Miller,58,Male,PhD,Gaffer,143692,Entertainment,Fashion
+CUSTID_483,John Banks,48,Female,Master's,Cabin crew,117452,"Books, Science",Fashion
+CUSTID_484,Timothy Phillips,52,Female,High School,Film/video editor,87254,Gaming,Beauty
+CUSTID_485,Michael Dixon,19,Male,High School,"Nurse, mental health",112909,Fashion,Eco-Friendly
+CUSTID_486,Jaime Little,51,Male,Bachelor's,"Psychotherapist, dance movement",137319,Home-Decor,Budget
+CUSTID_487,Nathan Beck,25,Female,PhD,Data scientist,128496,Music,Fashion
+CUSTID_488,Dr. Brittany Macias,56,Male,Bachelor's,IT consultant,147486,"Books, Science",Beauty
+CUSTID_489,Joseph Frost,43,Male,PhD,Music therapist,113771,"Books, Science","Tech-Savvy, AI"
+CUSTID_490,Mrs. Elizabeth Morales,20,Male,PhD,Regulatory affairs officer,32644,Beauty,Beauty
+CUSTID_491,Tiffany Carr,48,Male,High School,Immunologist,36708,Fashion,Beauty
+CUSTID_492,Mackenzie Curtis,40,Female,Master's,Horticultural therapist,55655,Technology,Luxury
+CUSTID_493,Christian Shepard,33,Male,Bachelor's,Catering manager,91948,Home-Decor,Fashion
+CUSTID_494,Jennifer Simpson,56,Male,Bachelor's,Housing manager/officer,84434,Home-Decor,Beauty
+CUSTID_495,Vincent Lowe,39,Male,High School,Child psychotherapist,114130,Entertainment,Beauty
+CUSTID_496,Robert Scott,56,Female,High School,Investment analyst,85224,Gaming,"Tech-Savvy, AI"
+CUSTID_497,Dawn Wood,61,Female,PhD,Health visitor,116416,Entertainment,Eco-Friendly
+CUSTID_498,Jason Foley,29,Male,Master's,Financial planner,124902,Gaming,Budget
+CUSTID_499,Wyatt Holland,40,Female,PhD,Early years teacher,85501,Gaming,"Tech-Savvy, AI"
+CUSTID_500,Sandra Day,54,Male,Bachelor's,Field trials officer,89565,Music,Luxury
+CUSTID_501,Jessica Phillips,42,Female,High School,Structural engineer,138571,"Books, Science",Eco-Friendly
+CUSTID_502,Pamela Olsen,50,Male,High School,Retail manager,99830,Home-Decor,"Tech-Savvy, AI"
+CUSTID_503,Jacqueline Jones,22,Male,Master's,Leisure centre manager,30778,Sports,Eco-Friendly
+CUSTID_504,Kelly Paul,47,Male,Master's,"Radiographer, diagnostic",134155,Sports,"Tech-Savvy, AI"
+CUSTID_505,Keith Phillips,21,Male,High School,Company secretary,123114,Home-Decor,Fashion
+CUSTID_506,Pamela Tran,42,Female,High School,"Engineer, civil (contracting)",119468,Gaming,Luxury
+CUSTID_507,Robyn Torres,27,Female,High School,"Surveyor, building control",42838,Beauty,Luxury
+CUSTID_508,Michelle Smith,44,Male,High School,Commercial art gallery manager,112247,Fashion,Eco-Friendly
+CUSTID_509,Joseph Owens,38,Female,PhD,Press photographer,127179,Gaming,Budget
+CUSTID_510,James Murray,38,Female,Bachelor's,"Teacher, English as a foreign language",83422,Finance,Luxury
+CUSTID_511,Haley Brown,35,Male,High School,Insurance underwriter,135729,Beauty,Eco-Friendly
+CUSTID_512,Jesse Colon MD,33,Female,Master's,Volunteer coordinator,132195,Finance,"Tech-Savvy, AI"
+CUSTID_513,Justin Armstrong,45,Female,Bachelor's,Water quality scientist,98113,Technology,"Tech-Savvy, AI"
+CUSTID_514,Justin Cochran,51,Female,PhD,Insurance underwriter,76671,Finance,"Tech-Savvy, AI"
+CUSTID_515,Mr. Derrick Collins,45,Male,High School,Applications developer,100337,Gaming,Budget
+CUSTID_516,Cindy Mcintyre,19,Female,Bachelor's,Commercial art gallery manager,61362,Home-Decor,Beauty
+CUSTID_517,Leslie Shaw,28,Male,Bachelor's,Advertising art director,36385,Entertainment,Fashion
+CUSTID_518,Jose Wall,49,Male,PhD,"Scientist, research (maths)",52696,Home-Decor,"Tech-Savvy, AI"
+CUSTID_519,Alyssa Lang,64,Female,Master's,"Surveyor, minerals",111239,Sports,Luxury
+CUSTID_520,Jennifer Hernandez,65,Female,High School,Sport and exercise psychologist,103952,Home-Decor,Eco-Friendly
+CUSTID_521,Mary Craig,41,Female,Master's,Product manager,116530,Technology,Budget
+CUSTID_522,Stephanie Garza,64,Female,Bachelor's,Teaching laboratory technician,80888,Music,"Tech-Savvy, AI"
+CUSTID_523,Anthony Reed,38,Male,Bachelor's,Science writer,99411,Entertainment,Budget
+CUSTID_524,Ronald Richard,40,Male,PhD,"Journalist, magazine",118164,Home-Decor,Budget
+CUSTID_525,Stacey Marquez,57,Female,Bachelor's,Forest/woodland manager,42675,Sports,Fashion
+CUSTID_526,Jenny Huang,45,Male,High School,Medical physicist,108768,Entertainment,Beauty
+CUSTID_527,William Carlson,34,Male,PhD,Medical physicist,146739,"Books, Science",Luxury
+CUSTID_528,Shannon Lewis,24,Female,High School,Television camera operator,42624,Beauty,Eco-Friendly
+CUSTID_529,Cynthia Lopez,52,Male,High School,"Scientist, product/process development",49836,Fashion,Luxury
+CUSTID_530,Ana Martin,39,Female,Bachelor's,Lexicographer,128728,Beauty,Beauty
+CUSTID_531,Heather Kelly,51,Male,Bachelor's,"Engineer, site",42303,Sports,"Tech-Savvy, AI"
+CUSTID_532,William Ellis,52,Male,Master's,"Doctor, general practice",96280,Sports,Fashion
+CUSTID_533,Michael Hayden,65,Male,Bachelor's,Hotel manager,118981,Music,Eco-Friendly
+CUSTID_534,Jeffrey Baker,38,Male,PhD,Learning disability nurse,115585,"Books, Science",Eco-Friendly
+CUSTID_535,Jonathan Ray,26,Male,PhD,Ophthalmologist,143753,Technology,"Tech-Savvy, AI"
+CUSTID_536,Linda Bradley,25,Male,PhD,Nutritional therapist,54114,Sports,Budget
+CUSTID_537,Jeremy Cole,28,Female,High School,Risk analyst,135570,"Books, Science",Budget
+CUSTID_538,Terry Kelley,40,Female,PhD,Estate agent,125644,Gaming,Fashion
+CUSTID_539,Lynn Powell,58,Male,Bachelor's,"Lecturer, higher education",103661,Home-Decor,"Tech-Savvy, AI"
+CUSTID_540,Richard Castro,65,Male,PhD,Volunteer coordinator,56880,"Books, Science","Tech-Savvy, AI"
+CUSTID_541,Joshua Davidson,52,Male,High School,Medical technical officer,107581,Gaming,"Tech-Savvy, AI"
+CUSTID_542,Jessica Allen,24,Female,Master's,"Engineer, mining",96084,Fashion,"Tech-Savvy, AI"
+CUSTID_543,Brenda Hernandez,27,Male,PhD,"Librarian, academic",124912,Gaming,Fashion
+CUSTID_544,Meagan Gordon,26,Male,PhD,"Scientist, clinical (histocompatibility and immunogenetics)",135587,Technology,Beauty
+CUSTID_545,Joseph Sanders,46,Male,High School,"Lecturer, higher education",122052,Music,"Tech-Savvy, AI"
+CUSTID_546,Jessica Parker MD,46,Male,PhD,Psychiatric nurse,58330,Music,Eco-Friendly
+CUSTID_547,Scott Hunt,52,Male,PhD,"Engineer, broadcasting (operations)",139956,Sports,Luxury
+CUSTID_548,Jacqueline Shelton,22,Male,Bachelor's,Speech and language therapist,58026,Beauty,Luxury
+CUSTID_549,Manuel Zimmerman,43,Male,High School,Advertising account executive,97207,Technology,Budget
+CUSTID_550,James Hill,22,Male,Bachelor's,Educational psychologist,94463,Music,Budget
+CUSTID_551,Heather Lopez,22,Female,High School,Banker,69343,Entertainment,Budget
+CUSTID_552,Michael Pearson,26,Male,Bachelor's,"Designer, fashion/clothing",148782,Fashion,Beauty
+CUSTID_553,Aimee Smith,20,Male,Master's,Homeopath,139694,Fashion,Beauty
+CUSTID_554,Tara Black,32,Female,Master's,Photographer,145083,Entertainment,Budget
+CUSTID_555,Jeremy Hernandez,64,Male,High School,"Pharmacist, hospital",65914,Beauty,"Tech-Savvy, AI"
+CUSTID_556,Elizabeth Jones,18,Female,Bachelor's,"Scientist, product/process development",83979,Sports,Beauty
+CUSTID_557,Frederick Anderson,22,Female,Master's,Insurance underwriter,99439,Sports,Fashion
+CUSTID_558,Steven Ramsey,55,Female,Master's,Seismic interpreter,102639,Music,Beauty
+CUSTID_559,Lori Miller,63,Male,Master's,Conference centre manager,107877,Sports,Eco-Friendly
+CUSTID_560,Sharon Harrison,33,Female,PhD,Corporate investment banker,49178,"Books, Science",Budget
+CUSTID_561,Ricky Anderson,60,Female,Bachelor's,Clinical research associate,63001,Gaming,Budget
+CUSTID_562,Courtney Johnson,19,Male,Bachelor's,IT technical support officer,30825,Beauty,Eco-Friendly
+CUSTID_563,Jeffrey Hodges,61,Male,Bachelor's,"Nurse, mental health",33469,Technology,Budget
+CUSTID_564,Kurt Young,47,Female,High School,Call centre manager,41566,Home-Decor,Fashion
+CUSTID_565,Ian Davis,55,Male,Master's,Fisheries officer,82935,Sports,Luxury
+CUSTID_566,Allison Simon,42,Male,Master's,"Engineer, automotive",127476,Sports,Eco-Friendly
+CUSTID_567,Emma Ortega,49,Male,High School,"Doctor, hospital",44770,"Books, Science",Luxury
+CUSTID_568,Vincent Harvey,59,Female,PhD,Camera operator,147082,"Books, Science",Fashion
+CUSTID_569,Anthony Jones,58,Male,Bachelor's,Tree surgeon,33818,Entertainment,Luxury
+CUSTID_570,Matthew Garcia,59,Female,Master's,"Lecturer, further education",143687,Fashion,Budget
+CUSTID_571,Cheryl Marks,51,Male,High School,"Engineer, manufacturing systems",99521,Music,Beauty
+CUSTID_572,Jonathan Davis,50,Male,Master's,Writer,70224,Sports,Luxury
+CUSTID_573,Ronald Chen,37,Male,PhD,Further education lecturer,70616,Gaming,Beauty
+CUSTID_574,Daniel Morrison,33,Male,PhD,Pensions consultant,90718,Sports,Budget
+CUSTID_575,Nathan Juarez,50,Male,PhD,Quality manager,145327,Fashion,Beauty
+CUSTID_576,Jesse Miller,45,Male,Master's,Community pharmacist,123145,Music,Budget
+CUSTID_577,Christopher Johnson,47,Male,High School,Publishing rights manager,67220,Technology,Budget
+CUSTID_578,Timothy West,61,Male,PhD,"Engineer, civil (contracting)",51871,Finance,Eco-Friendly
+CUSTID_579,Patrick Stanton,58,Female,High School,Sub,89859,Music,"Tech-Savvy, AI"
+CUSTID_580,Stephen Davis,43,Male,High School,"Administrator, local government",55671,Music,Fashion
+CUSTID_581,Joseph Jordan,46,Female,High School,Manufacturing engineer,50756,Music,Budget
+CUSTID_582,Dylan Hines,44,Male,PhD,Advertising account executive,118657,Fashion,Fashion
+CUSTID_583,Elizabeth Nichols,59,Male,PhD,English as a foreign language teacher,89231,"Books, Science",Beauty
+CUSTID_584,Dr. Matthew Williams,55,Male,PhD,Pension scheme manager,86789,Fashion,"Tech-Savvy, AI"
+CUSTID_585,Billy Williams,22,Male,Master's,"Scientist, product/process development",76274,Technology,Beauty
+CUSTID_586,David Allen,33,Female,Master's,"Doctor, general practice",91343,Home-Decor,Luxury
+CUSTID_587,William Benjamin,24,Female,Bachelor's,"Engineer, technical sales",69262,Gaming,Luxury
+CUSTID_588,Toni Pratt,62,Female,High School,"Teacher, secondary school",145610,Technology,Luxury
+CUSTID_589,Jessica Torres,41,Male,Bachelor's,Statistician,42815,Fashion,Fashion
+CUSTID_590,Daniel Turner,23,Male,Bachelor's,Insurance account manager,60584,Sports,"Tech-Savvy, AI"
+CUSTID_591,Holly Wiley,27,Female,PhD,Catering manager,101891,Fashion,Fashion
+CUSTID_592,William Wood,21,Male,PhD,"Accountant, chartered management",50618,Finance,Beauty
+CUSTID_593,Jasmine Francis,50,Female,High School,Sports coach,40535,Home-Decor,Eco-Friendly
+CUSTID_594,John Webb,32,Female,Master's,"Optician, dispensing",103995,Sports,Budget
+CUSTID_595,Ebony Torres,40,Male,Master's,Osteopath,84006,Music,"Tech-Savvy, AI"
+CUSTID_596,Amber Soto,24,Female,Bachelor's,Teaching laboratory technician,112472,"Books, Science",Fashion
+CUSTID_597,Sarah Hernandez,54,Female,PhD,"Therapist, music",52435,Fashion,Beauty
+CUSTID_598,Breanna Richardson,27,Male,PhD,Fitness centre manager,124831,Technology,Fashion
+CUSTID_599,Connie Torres,50,Female,High School,"Scientist, forensic",71303,Music,Budget
+CUSTID_600,Laura Richmond,33,Female,Master's,"Copywriter, advertising",36864,Sports,Luxury
+CUSTID_601,Stephanie Gomez,62,Male,High School,Pharmacologist,111170,Gaming,Luxury
+CUSTID_602,Jonathan Porter,43,Male,Bachelor's,Web designer,64269,Sports,Fashion
+CUSTID_603,Zoe Short,55,Male,Bachelor's,"Psychologist, educational",139596,"Books, Science",Budget
+CUSTID_604,Ricky Silva,48,Female,PhD,Technical author,99168,Fashion,Eco-Friendly
+CUSTID_605,Trevor Mccall,56,Male,Master's,Private music teacher,58892,Fashion,Luxury
+CUSTID_606,Barbara Moreno,50,Male,Bachelor's,"Pilot, airline",54798,Sports,Budget
+CUSTID_607,Mark Smith,41,Female,Master's,Glass blower/designer,130970,Fashion,Luxury
+CUSTID_608,Derek Anderson,47,Female,High School,Energy manager,108940,Gaming,Budget
+CUSTID_609,Brittany Maldonado,38,Female,High School,Theme park manager,117814,Gaming,Budget
+CUSTID_610,Kathleen Herman,39,Female,PhD,Photographer,105503,Sports,"Tech-Savvy, AI"
+CUSTID_611,Robert Lopez,27,Male,Master's,Hydrogeologist,48084,Home-Decor,Fashion
+CUSTID_612,George Sharp,20,Male,Bachelor's,Aid worker,93077,Sports,Fashion
+CUSTID_613,Thomas Serrano,37,Male,Master's,"Engineer, broadcasting (operations)",53615,Fashion,Luxury
+CUSTID_614,Ashley Manning,65,Female,Master's,Office manager,129214,Sports,Beauty
+CUSTID_615,Melissa Ayala,54,Male,PhD,"Engineer, materials",72540,Entertainment,Fashion
+CUSTID_616,Bryan Nolan,22,Male,PhD,Chief of Staff,58467,Gaming,Budget
+CUSTID_617,Lisa Edwards,62,Female,Master's,Media planner,83542,Finance,Luxury
+CUSTID_618,Amber Barnett,40,Male,PhD,"Accountant, chartered public finance",122728,Music,Beauty
+CUSTID_619,Jennifer Johnson,57,Female,PhD,"Designer, graphic",30647,Beauty,Beauty
+CUSTID_620,Mr. Justin Moore,55,Male,Master's,"Programme researcher, broadcasting/film/video",94996,Finance,Beauty
+CUSTID_621,Patricia Nelson,33,Male,PhD,Occupational hygienist,89279,Fashion,Beauty
+CUSTID_622,Christina Lambert,57,Male,PhD,"Surveyor, land/geomatics",58688,Home-Decor,Luxury
+CUSTID_623,Joel Hoffman,41,Male,High School,Occupational psychologist,38900,Beauty,Fashion
+CUSTID_624,Rachel Hayes,39,Male,PhD,Fitness centre manager,89149,"Books, Science","Tech-Savvy, AI"
+CUSTID_625,David Summers,62,Female,Master's,Call centre manager,133183,"Books, Science","Tech-Savvy, AI"
+CUSTID_626,Gary Adkins,44,Male,Master's,Television production assistant,125954,Fashion,Budget
+CUSTID_627,Andrew Johnson,29,Male,Bachelor's,Film/video editor,54070,Fashion,Fashion
+CUSTID_628,William Adkins,39,Male,Master's,"Engineer, materials",100002,Home-Decor,"Tech-Savvy, AI"
+CUSTID_629,Julia Boyd,31,Male,Bachelor's,Trade union research officer,66100,Entertainment,Budget
+CUSTID_630,Tony Jackson,42,Female,High School,Midwife,69446,Fashion,Luxury
+CUSTID_631,Patricia Wood,45,Male,Master's,Environmental health practitioner,116996,Entertainment,Fashion
+CUSTID_632,Kenneth Morgan,51,Male,PhD,Chiropractor,141525,"Books, Science","Tech-Savvy, AI"
+CUSTID_633,Alexandra Valenzuela,62,Male,PhD,Insurance underwriter,92155,Sports,Luxury
+CUSTID_634,Alexandra Armstrong,24,Male,Master's,"Nurse, learning disability",93281,Home-Decor,Luxury
+CUSTID_635,Anthony Massey,58,Female,Bachelor's,Water quality scientist,73696,Gaming,Fashion
+CUSTID_636,Joe Dorsey,42,Male,PhD,Landscape architect,113412,Music,"Tech-Savvy, AI"
+CUSTID_637,Raymond Jensen,65,Female,Master's,Optometrist,142706,Gaming,"Tech-Savvy, AI"
+CUSTID_638,Jordan Brown,47,Male,Bachelor's,Tax adviser,70145,Finance,Beauty
+CUSTID_639,Dustin Galloway,61,Female,Master's,"Scientist, marine",59929,Finance,"Tech-Savvy, AI"
+CUSTID_640,Erin Robinson,55,Male,Bachelor's,"Development worker, community",71623,Home-Decor,Luxury
+CUSTID_641,James Fuentes,40,Male,High School,"Engineer, structural",81416,Entertainment,"Tech-Savvy, AI"
+CUSTID_642,Christopher Davis,26,Male,Bachelor's,"Investment banker, corporate",33825,Gaming,"Tech-Savvy, AI"
+CUSTID_643,Amy Hancock,32,Male,High School,Solicitor,147932,"Books, Science",Luxury
+CUSTID_644,Amy Wilson,27,Male,High School,Artist,146544,Technology,Fashion
+CUSTID_645,Roy Snow,36,Male,High School,Education administrator,60311,Gaming,Eco-Friendly
+CUSTID_646,Jonathan Peters,57,Male,Master's,"Conservation officer, historic buildings",33790,Sports,"Tech-Savvy, AI"
+CUSTID_647,Thomas Lopez,60,Female,Bachelor's,Information officer,49884,Entertainment,"Tech-Savvy, AI"
+CUSTID_648,Ryan Maxwell,42,Female,PhD,Fish farm manager,97900,"Books, Science",Eco-Friendly
+CUSTID_649,Lynn White,53,Male,High School,Purchasing manager,80310,Home-Decor,Beauty
+CUSTID_650,Penny Huber,52,Male,High School,"Surveyor, hydrographic",66698,"Books, Science",Luxury
+CUSTID_651,Kathleen Fields,51,Female,Master's,Estate manager/land agent,32487,Technology,Budget
+CUSTID_652,Jo Daniel,64,Female,High School,"Engineer, water",131539,Finance,Eco-Friendly
+CUSTID_653,Alexander Rogers,31,Male,Master's,Landscape architect,53254,Music,Beauty
+CUSTID_654,William Stone,56,Male,Master's,Higher education careers adviser,86760,Fashion,"Tech-Savvy, AI"
+CUSTID_655,Amber Graham,20,Male,Master's,"Producer, television/film/video",81671,"Books, Science",Beauty
+CUSTID_656,Nicholas Wade,58,Male,PhD,Film/video editor,81636,Fashion,Eco-Friendly
+CUSTID_657,Julie Martin,63,Female,PhD,"Investment banker, corporate",48309,Sports,Fashion
+CUSTID_658,Andrea Smith,61,Male,PhD,Meteorologist,113302,Sports,Eco-Friendly
+CUSTID_659,Todd Finley,20,Female,Bachelor's,"Geologist, engineering",100089,Gaming,Budget
+CUSTID_660,Jon Williams,42,Female,Bachelor's,Haematologist,56223,Beauty,Beauty
+CUSTID_661,Carolyn Howell,53,Female,High School,Gaffer,77550,Finance,Beauty
+CUSTID_662,Julie Trevino,59,Female,Master's,Insurance risk surveyor,60104,Fashion,"Tech-Savvy, AI"
+CUSTID_663,Thomas Smith,20,Male,Master's,Horticultural consultant,120058,Beauty,"Tech-Savvy, AI"
+CUSTID_664,Dorothy Evans,40,Female,Master's,"Teacher, adult education",93157,Fashion,Fashion
+CUSTID_665,Colton Reed,31,Female,High School,Insurance broker,40920,Fashion,Eco-Friendly
+CUSTID_666,David Costa,64,Female,Bachelor's,Child psychotherapist,61827,Entertainment,Beauty
+CUSTID_667,Kenneth Pierce,47,Female,Bachelor's,Accounting technician,34604,Home-Decor,Budget
+CUSTID_668,Karen Ponce,54,Male,Bachelor's,Community development worker,46425,Finance,Eco-Friendly
+CUSTID_669,Jack Bowen,23,Female,Bachelor's,Nutritional therapist,130048,Home-Decor,Budget
+CUSTID_670,Matthew Boone,44,Female,High School,Control and instrumentation engineer,91320,Gaming,"Tech-Savvy, AI"
+CUSTID_671,Michele Serrano,19,Female,High School,Youth worker,135151,Fashion,Eco-Friendly
+CUSTID_672,Mark Cervantes,46,Female,PhD,"Designer, fashion/clothing",36109,Technology,Luxury
+CUSTID_673,Joseph Burnett,23,Male,Bachelor's,Chief Technology Officer,147826,Finance,Fashion
+CUSTID_674,James Paul,65,Male,Bachelor's,Minerals surveyor,87350,Beauty,Luxury
+CUSTID_675,Daniel Patel,44,Male,High School,Archivist,107657,"Books, Science",Eco-Friendly
+CUSTID_676,Joshua Cardenas,41,Male,Master's,Manufacturing systems engineer,75242,Music,Beauty
+CUSTID_677,Karen Hodge,57,Male,High School,Clinical molecular geneticist,104200,Music,Fashion
+CUSTID_678,Lauren Cline,54,Female,High School,Medical technical officer,111788,Gaming,"Tech-Savvy, AI"
+CUSTID_679,Brenda Johnson,20,Male,Bachelor's,Advice worker,97192,Fashion,Fashion
+CUSTID_680,Heather Brooks,53,Female,Bachelor's,Energy manager,122795,Fashion,Luxury
+CUSTID_681,Sarah Wagner,41,Male,High School,"Embryologist, clinical",63105,Beauty,Budget
+CUSTID_682,Jason Williams,60,Male,Bachelor's,Printmaker,89849,Gaming,Budget
+CUSTID_683,Alexandra Gallegos,35,Female,PhD,Town planner,133260,Gaming,"Tech-Savvy, AI"
+CUSTID_684,Linda Clark,41,Female,Bachelor's,Product/process development scientist,104153,Fashion,Beauty
+CUSTID_685,Christina Fernandez DDS,54,Female,Bachelor's,Trade union research officer,36636,Beauty,Eco-Friendly
+CUSTID_686,Nicholas Frank,54,Male,High School,Special effects artist,129934,Entertainment,Luxury
+CUSTID_687,Alexis Rhodes,42,Male,Bachelor's,"Accountant, chartered public finance",63976,Finance,Budget
+CUSTID_688,John Taylor,59,Female,PhD,Television/film/video producer,63481,Technology,Budget
+CUSTID_689,Sara Wise,37,Male,Bachelor's,"Editor, commissioning",148673,Sports,Beauty
+CUSTID_690,Melissa Nguyen,63,Female,PhD,"Geneticist, molecular",78192,Finance,Eco-Friendly
+CUSTID_691,Denise Gray,54,Female,PhD,Web designer,99618,Beauty,"Tech-Savvy, AI"
+CUSTID_692,Michelle Larsen,23,Male,High School,Prison officer,86817,Home-Decor,Budget
+CUSTID_693,Vincent Carr,45,Male,Bachelor's,Television/film/video producer,43312,Finance,Budget
+CUSTID_694,Jeffrey King,30,Female,PhD,Product designer,42500,Fashion,Fashion
+CUSTID_695,James Copeland,40,Male,PhD,"Research officer, political party",59045,"Books, Science",Luxury
+CUSTID_696,Alexander Banks,22,Male,PhD,"Programmer, multimedia",149506,"Books, Science",Eco-Friendly
+CUSTID_697,Rodney Bullock,34,Male,Bachelor's,Database administrator,135411,Fashion,Budget
+CUSTID_698,Becky Johnson,58,Male,PhD,Quantity surveyor,110654,"Books, Science",Eco-Friendly
+CUSTID_699,Dakota Griffin,60,Male,PhD,Barrister's clerk,133698,Gaming,Beauty
+CUSTID_700,Diamond Singh,34,Male,Master's,Toxicologist,116410,Sports,Beauty
+CUSTID_701,Dr. Lisa Davis MD,56,Male,Master's,"Production assistant, television",104502,Beauty,Fashion
+CUSTID_702,Mary Barnes,39,Female,High School,Chief Financial Officer,99399,Home-Decor,Luxury
+CUSTID_703,Robert Anderson,65,Male,PhD,Personnel officer,91215,"Books, Science","Tech-Savvy, AI"
+CUSTID_704,Kelly Roberts,24,Male,High School,Minerals surveyor,68800,Home-Decor,Eco-Friendly
+CUSTID_705,Kayla Mckinney,51,Male,PhD,"Engineer, broadcasting (operations)",143687,Music,Budget
+CUSTID_706,William Wilson,21,Male,High School,Careers adviser,93807,Technology,Beauty
+CUSTID_707,James Mclaughlin,54,Female,Bachelor's,"Doctor, general practice",57929,Finance,Beauty
+CUSTID_708,Clayton Davis,28,Female,High School,Data scientist,129486,Sports,Beauty
+CUSTID_709,Blake Herrera,46,Female,Master's,"Production designer, theatre/television/film",110779,Fashion,"Tech-Savvy, AI"
+CUSTID_710,Christopher Turner,22,Male,Master's,International aid/development worker,77544,Finance,Beauty
+CUSTID_711,Kari Stone,52,Female,High School,Corporate investment banker,74825,Entertainment,Fashion
+CUSTID_712,Cynthia Watkins,60,Female,High School,Waste management officer,131256,Gaming,Beauty
+CUSTID_713,Suzanne Robertson,42,Male,Bachelor's,Bonds trader,148923,Technology,Fashion
+CUSTID_714,Eugene Adams,58,Female,High School,Community arts worker,81900,"Books, Science",Budget
+CUSTID_715,Michael Morris,48,Male,PhD,"Conservator, museum/gallery",135870,Gaming,Eco-Friendly
+CUSTID_716,William Morales MD,25,Female,PhD,Product designer,101647,Technology,Budget
+CUSTID_717,Lisa James,50,Male,Master's,Barrister's clerk,89522,Music,Luxury
+CUSTID_718,Luis Gregory,41,Female,PhD,Research scientist (maths),112026,Technology,"Tech-Savvy, AI"
+CUSTID_719,John Garcia,37,Male,Master's,"Horticulturist, commercial",83339,Gaming,Fashion
+CUSTID_720,Gregory Ramirez,41,Female,High School,Television camera operator,102759,Gaming,Beauty
+CUSTID_721,Sylvia Flores,40,Female,PhD,"Production assistant, radio",108230,"Books, Science",Luxury
+CUSTID_722,Leslie Campbell,35,Female,High School,Amenity horticulturist,48602,Entertainment,Fashion
+CUSTID_723,Krista Walker,45,Male,High School,Food technologist,121231,Technology,"Tech-Savvy, AI"
+CUSTID_724,Austin Chapman,18,Male,High School,"Programmer, multimedia",114943,Finance,Fashion
+CUSTID_725,Jessica Williams,39,Female,PhD,Prison officer,124938,Technology,Fashion
+CUSTID_726,Amy Aguilar,61,Female,Master's,"Restaurant manager, fast food",131237,Technology,"Tech-Savvy, AI"
+CUSTID_727,Lori Key,50,Female,Bachelor's,"Administrator, sports",77483,Technology,Eco-Friendly
+CUSTID_728,Ronald Clark,58,Male,PhD,Speech and language therapist,96153,Entertainment,Budget
+CUSTID_729,Mikayla Moreno,31,Female,High School,Retail banker,97149,Entertainment,Fashion
+CUSTID_730,Lisa Serrano,27,Male,Bachelor's,"Editor, film/video",142329,Fashion,Luxury
+CUSTID_731,James Summers,33,Male,PhD,Fast food restaurant manager,63632,Music,Eco-Friendly
+CUSTID_732,Erin Gonzalez,57,Female,Bachelor's,Company secretary,139580,Sports,Budget
+CUSTID_733,Scott Cook,33,Female,High School,Government social research officer,44275,Finance,"Tech-Savvy, AI"
+CUSTID_734,Michael Cortez,21,Male,PhD,"Psychologist, forensic",101681,"Books, Science",Eco-Friendly
+CUSTID_735,Jonathan Cox,30,Male,PhD,Geoscientist,39245,Entertainment,Eco-Friendly
+CUSTID_736,Jacob Garcia,25,Female,Bachelor's,Plant breeder/geneticist,106825,Beauty,Beauty
+CUSTID_737,Matthew Cantu,18,Female,High School,Insurance broker,81451,Entertainment,Budget
+CUSTID_738,John Powell,53,Male,Master's,Astronomer,81435,Gaming,Luxury
+CUSTID_739,Brenda Church,49,Female,High School,Fish farm manager,76939,Home-Decor,Budget
+CUSTID_740,Tracey George DVM,35,Male,PhD,Fisheries officer,84560,Sports,Beauty
+CUSTID_741,Wayne Smith,46,Female,Bachelor's,"Research officer, trade union",73437,Beauty,"Tech-Savvy, AI"
+CUSTID_742,Gary Parsons,25,Female,Master's,Translator,87689,Entertainment,Beauty
+CUSTID_743,Elizabeth Rivera,56,Male,Master's,Forensic psychologist,76837,Entertainment,Luxury
+CUSTID_744,Nathaniel Thomas,47,Female,High School,"Doctor, hospital",33004,Beauty,Beauty
+CUSTID_745,Toni Carey,42,Female,PhD,Charity fundraiser,58603,Fashion,"Tech-Savvy, AI"
+CUSTID_746,Michael Mahoney,51,Male,PhD,Herbalist,55404,Home-Decor,Budget
+CUSTID_747,Jeffery Wilcox,53,Female,Master's,"Copywriter, advertising",30785,Music,"Tech-Savvy, AI"
+CUSTID_748,Gregory Castro,22,Male,Master's,TEFL teacher,119744,Beauty,"Tech-Savvy, AI"
+CUSTID_749,James Vargas,61,Male,Bachelor's,Data scientist,66381,Gaming,Budget
+CUSTID_750,Tiffany Young,24,Male,High School,Insurance claims handler,96701,Beauty,Luxury
+CUSTID_751,Thomas Smith,18,Male,Bachelor's,Materials engineer,50768,Finance,"Tech-Savvy, AI"
+CUSTID_752,Christina Flores,57,Female,High School,Medical secretary,55111,Finance,"Tech-Savvy, AI"
+CUSTID_753,Mark Rodriguez,58,Female,Master's,Haematologist,115607,Technology,Fashion
+CUSTID_754,Justin Gutierrez,23,Female,Bachelor's,Clinical psychologist,96822,"Books, Science",Eco-Friendly
+CUSTID_755,Phillip Jones,50,Male,Bachelor's,Lawyer,91082,Technology,Eco-Friendly
+CUSTID_756,Melissa Hughes,43,Male,High School,"Engineer, electrical",120747,Sports,Budget
+CUSTID_757,Ashley Reed,43,Male,PhD,Telecommunications researcher,37384,Entertainment,Beauty
+CUSTID_758,Jose Cummings,29,Male,High School,Bonds trader,147034,Music,Eco-Friendly
+CUSTID_759,Nicholas Campbell,31,Male,PhD,Chief Technology Officer,60003,"Books, Science",Luxury
+CUSTID_760,Thomas Taylor,64,Female,Master's,Charity officer,79424,Fashion,Eco-Friendly
+CUSTID_761,Sherri Garrett,35,Male,Bachelor's,Chief Strategy Officer,32311,"Books, Science",Budget
+CUSTID_762,Michael Moore,50,Male,Bachelor's,Fast food restaurant manager,42417,"Books, Science",Fashion
+CUSTID_763,Katherine Brooks,56,Female,Master's,Air cabin crew,132462,Music,Eco-Friendly
+CUSTID_764,Melanie Fletcher,59,Male,PhD,Firefighter,37588,Home-Decor,Luxury
+CUSTID_765,Megan Moore,51,Female,Master's,Information officer,96334,Beauty,Luxury
+CUSTID_766,Amanda Perry,65,Female,PhD,Interior and spatial designer,124018,Fashion,Beauty
+CUSTID_767,Laura Kelly,37,Female,PhD,"Nurse, mental health",66310,Fashion,Budget
+CUSTID_768,Amanda Wilkinson,44,Male,High School,Charity officer,77688,Technology,Luxury
+CUSTID_769,Kristine Roberts,40,Male,Master's,Pathologist,103556,Fashion,"Tech-Savvy, AI"
+CUSTID_770,Dr. Brian Ross DVM,23,Female,Master's,"Librarian, public",77310,Finance,Fashion
+CUSTID_771,Douglas Jordan,22,Male,High School,Retail buyer,84768,"Books, Science",Fashion
+CUSTID_772,Kristina Snyder,42,Female,Bachelor's,"Librarian, academic",60940,Sports,Beauty
+CUSTID_773,Steven Hughes,61,Male,High School,Operational investment banker,77544,Music,Luxury
+CUSTID_774,Wesley Holloway,25,Female,High School,Structural engineer,100036,Music,Eco-Friendly
+CUSTID_775,Marcus Wright,52,Female,Bachelor's,"Engineer, building services",82821,Home-Decor,Luxury
+CUSTID_776,Michael Nielsen,42,Male,Bachelor's,Medical technical officer,96579,Gaming,Luxury
+CUSTID_777,Charles Foster,52,Female,High School,Orthoptist,36212,Technology,Beauty
+CUSTID_778,Diana Decker,54,Female,Bachelor's,Medical laboratory scientific officer,108887,Gaming,Beauty
+CUSTID_779,Brett Adams,33,Male,PhD,Counsellor,78649,Gaming,Beauty
+CUSTID_780,Thomas Johnson,44,Female,Master's,Chartered loss adjuster,117334,Home-Decor,Luxury
+CUSTID_781,Michael Anthony,48,Male,High School,Senior tax professional/tax inspector,71471,Entertainment,"Tech-Savvy, AI"
+CUSTID_782,Sarah Collins,26,Male,High School,Publishing rights manager,85365,Finance,"Tech-Savvy, AI"
+CUSTID_783,Eric Rogers,35,Male,High School,Armed forces training and education officer,132392,Sports,Luxury
+CUSTID_784,Todd Morton,32,Male,High School,"Engineer, mining",120806,Sports,Luxury
+CUSTID_785,David Newman,39,Male,Master's,Probation officer,78800,Home-Decor,"Tech-Savvy, AI"
+CUSTID_786,Christopher Lewis,64,Male,Bachelor's,Stage manager,92285,Gaming,Beauty
+CUSTID_787,Michael Weeks,59,Male,High School,Dentist,134088,Sports,Budget
+CUSTID_788,Chad Compton,50,Male,Master's,"Production assistant, radio",110425,Sports,"Tech-Savvy, AI"
+CUSTID_789,Jacqueline Rodriguez,41,Male,High School,"Designer, multimedia",75247,Home-Decor,Eco-Friendly
+CUSTID_790,Carrie Hudson,64,Male,High School,"Optician, dispensing",95620,Entertainment,Beauty
+CUSTID_791,Gabriel Brown,47,Female,PhD,"Production assistant, radio",65388,Technology,Budget
+CUSTID_792,Karen Medina,26,Male,High School,"Designer, jewellery",127676,Technology,Budget
+CUSTID_793,Tamara Payne,20,Male,Master's,"Embryologist, clinical",133715,Gaming,Beauty
+CUSTID_794,Michael Livingston,48,Female,Bachelor's,Special educational needs teacher,66459,Sports,"Tech-Savvy, AI"
+CUSTID_795,Christina Gonzalez,28,Male,High School,Metallurgist,73629,Beauty,"Tech-Savvy, AI"
+CUSTID_796,Bradley Morrison,35,Female,Master's,Operations geologist,66594,Finance,"Tech-Savvy, AI"
+CUSTID_797,Marissa Young,50,Male,PhD,Contractor,90662,Entertainment,Fashion
+CUSTID_798,Katherine Blair,35,Female,Master's,Museum education officer,40440,Beauty,Eco-Friendly
+CUSTID_799,Suzanne Dean,56,Female,Master's,Building surveyor,54855,Technology,"Tech-Savvy, AI"
+CUSTID_800,Dawn Monroe,56,Female,Bachelor's,Pension scheme manager,134609,Fashion,Budget
+CUSTID_801,Michael Harrison,49,Female,PhD,"Doctor, general practice",134978,Technology,Beauty
+CUSTID_802,Matthew Stevens,60,Female,High School,"Administrator, Civil Service",120542,Home-Decor,Beauty
+CUSTID_803,Pamela Weiss,54,Female,PhD,Make,48192,Music,"Tech-Savvy, AI"
+CUSTID_804,David Martinez,41,Male,High School,Plant breeder/geneticist,73769,Sports,Budget
+CUSTID_805,Scott Wilson,37,Female,PhD,"Scientist, water quality",53002,Gaming,Beauty
+CUSTID_806,Tiffany Robinson,61,Female,Master's,"Journalist, broadcasting",51454,Home-Decor,Budget
+CUSTID_807,Robert Rose,31,Female,Master's,"Sales professional, IT",100395,Entertainment,Luxury
+CUSTID_808,Jaime Simmons,29,Female,Bachelor's,Technical brewer,109237,Beauty,Beauty
+CUSTID_809,Tabitha White,20,Female,Master's,"Accountant, chartered certified",140570,Technology,Beauty
+CUSTID_810,Richard Harris,64,Male,Master's,Theatre stage manager,149298,Finance,Luxury
+CUSTID_811,Tina Mccann,44,Male,High School,Special educational needs teacher,118482,Beauty,Fashion
+CUSTID_812,Zachary Wiley,51,Female,PhD,Production manager,57715,Technology,Eco-Friendly
+CUSTID_813,Katie Gibbs,48,Female,Master's,Data processing manager,146787,Fashion,Beauty
+CUSTID_814,Valerie Wilson,38,Male,PhD,Chiropodist,70070,Technology,Fashion
+CUSTID_815,Heather Baker,18,Male,High School,Editorial assistant,88358,"Books, Science","Tech-Savvy, AI"
+CUSTID_816,Nathaniel Hanson,60,Female,High School,Ergonomist,68482,Entertainment,Beauty
+CUSTID_817,William Jones,39,Female,Master's,"Engineer, aeronautical",58189,Beauty,Eco-Friendly
+CUSTID_818,Stephanie Gardner,44,Female,PhD,"Pharmacist, hospital",121296,Music,Fashion
+CUSTID_819,Dr. Matthew Stevens,21,Male,High School,Paediatric nurse,35192,Music,Budget
+CUSTID_820,Dana Anderson,22,Male,Master's,Advice worker,33311,Fashion,Fashion
+CUSTID_821,Jennifer Rodriguez,30,Female,High School,Armed forces training and education officer,142537,Sports,Budget
+CUSTID_822,John Chambers,45,Male,High School,Horticultural consultant,55447,Beauty,"Tech-Savvy, AI"
+CUSTID_823,Jessica Smith,49,Female,Master's,"Production designer, theatre/television/film",57312,Home-Decor,"Tech-Savvy, AI"
+CUSTID_824,Carrie Washington,41,Male,High School,Information systems manager,59761,Beauty,Fashion
+CUSTID_825,Jane Cross,39,Male,Master's,"Surveyor, minerals",141573,Gaming,Fashion
+CUSTID_826,Kathleen Mason,36,Male,Master's,Quarry manager,141356,Finance,Beauty
+CUSTID_827,Lauren Clark,26,Female,PhD,Learning disability nurse,135216,Sports,Beauty
+CUSTID_828,Krista Aguilar,61,Female,High School,Technical sales engineer,63253,Home-Decor,"Tech-Savvy, AI"
+CUSTID_829,Matthew Ellis,55,Male,Master's,"Sales professional, IT",58364,Home-Decor,Eco-Friendly
+CUSTID_830,William Tran,39,Female,PhD,Training and development officer,96838,Sports,"Tech-Savvy, AI"
+CUSTID_831,Drew Park,19,Male,PhD,"Lighting technician, broadcasting/film/video",132348,Finance,Fashion
+CUSTID_832,Diane Sharp,41,Female,PhD,Hydrologist,36729,Sports,"Tech-Savvy, AI"
+CUSTID_833,Jennifer Duarte,40,Male,PhD,"Runner, broadcasting/film/video",148632,Home-Decor,Luxury
+CUSTID_834,Kristina Morgan,21,Male,Master's,Bonds trader,106161,Home-Decor,Fashion
+CUSTID_835,Morgan Perez,50,Male,High School,Plant breeder/geneticist,125546,Gaming,Budget
+CUSTID_836,Stacey Elliott,23,Female,High School,Equality and diversity officer,71183,Entertainment,Beauty
+CUSTID_837,Megan Williams,57,Female,Master's,Trade mark attorney,116062,Sports,Beauty
+CUSTID_838,Eric Summers,45,Female,PhD,"Scientist, research (physical sciences)",56110,Fashion,"Tech-Savvy, AI"
+CUSTID_839,Victor Clark,28,Female,PhD,Dealer,76470,"Books, Science",Luxury
+CUSTID_840,David Luna,29,Male,Bachelor's,Trade mark attorney,93454,Technology,Beauty
+CUSTID_841,Mr. John Ross,35,Female,PhD,"Pilot, airline",137671,Finance,Beauty
+CUSTID_842,Steven Barnes,43,Female,High School,Herpetologist,121445,Entertainment,"Tech-Savvy, AI"
+CUSTID_843,Aaron Mendez,23,Female,High School,Paramedic,96232,Entertainment,Fashion
+CUSTID_844,Christine Burnett,53,Male,High School,Biomedical engineer,129241,"Books, Science",Fashion
+CUSTID_845,Mary Nelson,46,Male,Bachelor's,Chiropractor,89599,"Books, Science",Luxury
+CUSTID_846,Daryl Perry,25,Female,Bachelor's,Gaffer,86138,Fashion,Budget
+CUSTID_847,John Atkinson,40,Female,Bachelor's,Automotive engineer,60912,Entertainment,Luxury
+CUSTID_848,Eric Baker,58,Male,Master's,"Editor, commissioning",79097,Home-Decor,"Tech-Savvy, AI"
+CUSTID_849,Robert Olson,48,Female,Bachelor's,"Programmer, systems",106312,Entertainment,Eco-Friendly
+CUSTID_850,Patricia Young,64,Female,High School,Analytical chemist,95202,Beauty,Beauty
+CUSTID_851,William Graves,21,Female,Bachelor's,Conference centre manager,38524,Home-Decor,Budget
+CUSTID_852,Janet Sherman,62,Male,High School,"Education officer, museum",82894,"Books, Science",Fashion
+CUSTID_853,Jennifer Washington,50,Male,PhD,Financial controller,99767,Home-Decor,Eco-Friendly
+CUSTID_854,Timothy Weaver,27,Male,High School,Manufacturing systems engineer,62536,Entertainment,Fashion
+CUSTID_855,Benjamin Casey,45,Female,Master's,Special effects artist,43427,Fashion,Eco-Friendly
+CUSTID_856,Patricia Bernard,62,Female,Bachelor's,Barrister,45619,Technology,"Tech-Savvy, AI"
+CUSTID_857,April Bradley,58,Male,High School,Community development worker,71988,Technology,Fashion
+CUSTID_858,Jacqueline Lamb,36,Male,PhD,Public relations officer,65858,Home-Decor,"Tech-Savvy, AI"
+CUSTID_859,Savannah Andrews,57,Male,Master's,Contracting civil engineer,73690,Beauty,Budget
+CUSTID_860,Brenda Smith,21,Female,Bachelor's,Multimedia specialist,105032,Entertainment,Fashion
+CUSTID_861,Laura Berg,19,Male,PhD,Community pharmacist,32971,Beauty,Budget
+CUSTID_862,Sherry Jenkins,57,Female,Master's,"Engineer, energy",127690,"Books, Science",Eco-Friendly
+CUSTID_863,Margaret Davis,53,Male,PhD,Insurance broker,101171,Beauty,"Tech-Savvy, AI"
+CUSTID_864,William Wilcox,59,Male,Bachelor's,Archivist,75560,Beauty,Eco-Friendly
+CUSTID_865,Brian Villegas,57,Male,Master's,Special educational needs teacher,59720,Entertainment,Beauty
+CUSTID_866,Geoffrey Hunt,36,Female,PhD,Environmental consultant,52257,Finance,Beauty
+CUSTID_867,Cynthia Collins,18,Male,High School,Sports development officer,100193,Technology,Fashion
+CUSTID_868,Patricia Hall MD,39,Female,PhD,Counselling psychologist,98865,Finance,Budget
+CUSTID_869,Karen Brady,58,Male,Master's,Human resources officer,116113,"Books, Science",Budget
+CUSTID_870,Lindsey Fields,47,Male,High School,Cabin crew,59763,Sports,Budget
+CUSTID_871,Blake Cline,51,Female,Bachelor's,"Engineer, maintenance",81009,Home-Decor,Eco-Friendly
+CUSTID_872,Donald Porter,59,Female,Bachelor's,Transport planner,43776,Finance,Budget
+CUSTID_873,Maureen George,40,Male,PhD,Statistician,35738,Finance,Eco-Friendly
+CUSTID_874,Paul Jones,56,Male,Bachelor's,Horticultural therapist,44896,Fashion,Fashion
+CUSTID_875,Angela Hoffman,19,Female,High School,Commercial horticulturist,145528,Music,Fashion
+CUSTID_876,Michelle Johnston MD,22,Female,PhD,IT trainer,30490,Beauty,Fashion
+CUSTID_877,Michael Ford,25,Male,PhD,Production engineer,114520,Entertainment,Luxury
+CUSTID_878,Stephanie Hoffman,43,Female,PhD,Biomedical scientist,108103,Sports,Eco-Friendly
+CUSTID_879,John Pollard,26,Male,Master's,Ranger/warden,52380,Beauty,Eco-Friendly
+CUSTID_880,Michael Young,37,Male,PhD,"Administrator, education",103061,Entertainment,Luxury
+CUSTID_881,Devin Simpson,47,Male,Master's,Personnel officer,133669,Technology,Luxury
+CUSTID_882,Zachary Sandoval,65,Male,Master's,Ambulance person,33611,Home-Decor,Eco-Friendly
+CUSTID_883,Jack Hernandez,42,Male,High School,Sports therapist,144824,Sports,Eco-Friendly
+CUSTID_884,Joseph Strong,42,Female,High School,Rural practice surveyor,103879,Entertainment,Eco-Friendly
+CUSTID_885,Kristin Schroeder,23,Male,Master's,"Civil engineer, contracting",39350,Fashion,Budget
+CUSTID_886,Amy Thomas,18,Female,Bachelor's,Fashion designer,30884,Finance,Beauty
+CUSTID_887,Laura Long,58,Male,Bachelor's,Hospital doctor,43574,Sports,Budget
+CUSTID_888,John Smith,56,Female,Bachelor's,Air cabin crew,118046,Gaming,Eco-Friendly
+CUSTID_889,Michael Trujillo,27,Male,High School,Hospital pharmacist,66258,Beauty,Luxury
+CUSTID_890,Mckenzie Donovan,34,Male,Bachelor's,Scientific laboratory technician,118120,Home-Decor,Luxury
+CUSTID_891,David Lopez,44,Female,High School,Firefighter,121286,Beauty,Fashion
+CUSTID_892,Jonathan Austin,64,Male,PhD,"Development worker, community",116504,Sports,Eco-Friendly
+CUSTID_893,Timothy Murillo,44,Male,Master's,"Designer, jewellery",62894,Fashion,Fashion
+CUSTID_894,Frances Guerrero,50,Male,High School,"Radiographer, diagnostic",129258,Entertainment,Budget
+CUSTID_895,David Houston,20,Male,Master's,Quality manager,54685,"Books, Science","Tech-Savvy, AI"
+CUSTID_896,Karen Wallace,59,Male,Master's,Accounting technician,79754,Gaming,"Tech-Savvy, AI"
+CUSTID_897,Jorge Casey,60,Male,Master's,Immigration officer,141635,Music,Budget
+CUSTID_898,Mrs. Rebecca Barker,50,Male,High School,Historic buildings inspector/conservation officer,119580,Beauty,Fashion
+CUSTID_899,Shannon Bender,24,Female,PhD,Environmental consultant,78645,Entertainment,Fashion
+CUSTID_900,Sean Mendoza,65,Male,PhD,Data scientist,141752,Entertainment,Eco-Friendly
+CUSTID_901,Scott Hester,47,Male,PhD,Environmental education officer,70980,Sports,Eco-Friendly
+CUSTID_902,Kathy Hernandez,33,Male,High School,"Psychologist, prison and probation services",74516,"Books, Science",Luxury
+CUSTID_903,Mark Hunt,32,Male,High School,Financial adviser,97800,Gaming,Fashion
+CUSTID_904,Kevin Oconnor,45,Female,High School,"Engineer, biomedical",69599,Sports,Beauty
+CUSTID_905,Joseph Alvarez,51,Male,Master's,"Psychologist, occupational",36817,Technology,Eco-Friendly
+CUSTID_906,James Lowe,36,Female,Master's,"Administrator, education",84337,Home-Decor,Eco-Friendly
+CUSTID_907,Holly Rios,56,Female,Master's,Brewing technologist,48631,Technology,Luxury
+CUSTID_908,Rodney Shelton,27,Female,Bachelor's,Probation officer,144991,Home-Decor,"Tech-Savvy, AI"
+CUSTID_909,Donna Matthews,20,Female,PhD,"Engineer, civil (consulting)",54108,Technology,Budget
+CUSTID_910,Ivan Davis,27,Male,Bachelor's,Manufacturing engineer,33227,Gaming,Luxury
+CUSTID_911,Christopher Frost,51,Female,High School,Haematologist,47170,Home-Decor,Budget
+CUSTID_912,Philip Kennedy,19,Male,PhD,"Producer, television/film/video",137490,Fashion,Budget
+CUSTID_913,Jessica Anderson,37,Male,Bachelor's,Games developer,126791,Finance,Luxury
+CUSTID_914,Steven Drake,64,Female,Bachelor's,Museum/gallery conservator,110355,Home-Decor,Luxury
+CUSTID_915,Donna Vaughan,29,Male,High School,"Education officer, environmental",31939,"Books, Science",Luxury
+CUSTID_916,Jason Morse,23,Female,PhD,"Engineer, biomedical",37334,"Books, Science",Beauty
+CUSTID_917,Alec Dixon,21,Male,Bachelor's,Glass blower/designer,74726,Technology,"Tech-Savvy, AI"
+CUSTID_918,Danielle Lewis,26,Female,High School,"Teacher, English as a foreign language",125699,Entertainment,Budget
+CUSTID_919,Aaron Taylor,61,Female,High School,Broadcast journalist,30849,Home-Decor,Luxury
+CUSTID_920,Fernando Bass,61,Male,PhD,"Nurse, learning disability",145616,Entertainment,Eco-Friendly
+CUSTID_921,Dr. Eric White,37,Female,High School,"Buyer, retail",116811,Music,"Tech-Savvy, AI"
+CUSTID_922,David Wright,60,Male,PhD,Armed forces logistics/support/administrative officer,117429,Music,Budget
+CUSTID_923,Denise Stewart,43,Female,Bachelor's,Materials engineer,50691,Music,"Tech-Savvy, AI"
+CUSTID_924,Mark Brown,59,Female,High School,Energy manager,78393,"Books, Science",Luxury
+CUSTID_925,Donald Reed,32,Male,Bachelor's,"Engineer, control and instrumentation",149135,Fashion,Budget
+CUSTID_926,Melissa Ortiz,25,Male,Bachelor's,Theme park manager,86533,Home-Decor,Beauty
+CUSTID_927,Ashley Allison,47,Female,High School,"Sales professional, IT",100521,Technology,Fashion
+CUSTID_928,Eric Thompson,24,Female,Master's,Local government officer,127169,Gaming,Luxury
+CUSTID_929,Amy Torres,26,Male,High School,Biomedical scientist,88273,Gaming,Fashion
+CUSTID_930,Michaela Franco,43,Male,Master's,"Teacher, primary school",69135,Music,Fashion
+CUSTID_931,Alexandria Young,22,Male,Master's,Geophysicist/field seismologist,117496,"Books, Science","Tech-Savvy, AI"
+CUSTID_932,Edgar Henry,64,Female,PhD,"Accountant, chartered certified",97798,Fashion,Eco-Friendly
+CUSTID_933,Steven Morgan,26,Female,Master's,Television production assistant,108884,Technology,Eco-Friendly
+CUSTID_934,Henry Smith,56,Female,High School,Farm manager,134289,Finance,Budget
+CUSTID_935,Kayla Taylor,63,Female,Bachelor's,"Producer, television/film/video",31617,Fashion,Fashion
+CUSTID_936,Ricky White,29,Male,Bachelor's,"Administrator, charities/voluntary organisations",109223,Technology,Fashion
+CUSTID_937,Christina Cole,27,Female,PhD,Theatre stage manager,64657,Entertainment,Beauty
+CUSTID_938,Zachary Jones,27,Female,PhD,Lexicographer,141502,"Books, Science",Fashion
+CUSTID_939,Sean Cobb,28,Female,High School,"Designer, multimedia",104085,Home-Decor,Luxury
+CUSTID_940,Gabriel Rosales,41,Female,Master's,Forensic psychologist,41267,Entertainment,"Tech-Savvy, AI"
+CUSTID_941,Kristina Grant,55,Female,Bachelor's,"Scientist, forensic",134061,Home-Decor,Eco-Friendly
+CUSTID_942,Andrea Vazquez,60,Male,High School,Medical illustrator,39313,Beauty,Budget
+CUSTID_943,Kara Frye,48,Male,Master's,Building control surveyor,130542,Finance,Luxury
+CUSTID_944,Ricardo Jones,29,Female,PhD,Charity officer,140109,Home-Decor,Budget
+CUSTID_945,Diane Patterson,64,Female,Bachelor's,"Teacher, early years/pre",101317,Fashion,Fashion
+CUSTID_946,Erica Silva,31,Male,PhD,Armed forces logistics/support/administrative officer,45695,Finance,Luxury
+CUSTID_947,Jeremy Villarreal,31,Female,High School,IT technical support officer,149563,Technology,Beauty
+CUSTID_948,Amy Thomas,27,Male,Bachelor's,Community development worker,32884,Sports,Luxury
+CUSTID_949,Thomas Harris,38,Female,PhD,Art therapist,144703,Gaming,"Tech-Savvy, AI"
+CUSTID_950,Kristen Martin,63,Male,Bachelor's,Technical brewer,122109,Sports,Beauty
+CUSTID_951,David Woods,30,Female,High School,"Scientist, research (medical)",30138,Entertainment,Beauty
+CUSTID_952,William Rose,23,Female,Master's,Theme park manager,119889,Finance,Fashion
+CUSTID_953,Kevin Schneider,44,Male,High School,Optometrist,109916,"Books, Science",Fashion
+CUSTID_954,Amy Ross,61,Female,Bachelor's,Advertising art director,146421,Beauty,Luxury
+CUSTID_955,Kylie Lee,52,Male,Master's,Field seismologist,78730,Entertainment,"Tech-Savvy, AI"
+CUSTID_956,William Burnett,58,Female,Master's,"Teacher, English as a foreign language",119988,Sports,Luxury
+CUSTID_957,Mary Lara,49,Male,Bachelor's,Acupuncturist,90181,Beauty,Eco-Friendly
+CUSTID_958,David Mitchell,60,Female,High School,Clothing/textile technologist,33978,Entertainment,Beauty
+CUSTID_959,James Hart,53,Female,High School,"Surveyor, planning and development",101567,Gaming,Beauty
+CUSTID_960,Shawn Kelly,39,Male,Bachelor's,Speech and language therapist,145023,Beauty,Luxury
+CUSTID_961,Megan Kent,54,Male,Master's,Rural practice surveyor,35359,Finance,Beauty
+CUSTID_962,Emily Turner,61,Male,PhD,"Production assistant, radio",98163,Gaming,Eco-Friendly
+CUSTID_963,Carolyn Greene,53,Male,PhD,Logistics and distribution manager,125523,Technology,Budget
+CUSTID_964,Sara Miller,63,Female,Bachelor's,"Pharmacist, community",127275,Sports,"Tech-Savvy, AI"
+CUSTID_965,Brad Hammond,32,Male,High School,Forensic scientist,54333,Music,Budget
+CUSTID_966,Peter Kerr,29,Male,Bachelor's,"Engineer, drilling",60429,Music,Fashion
+CUSTID_967,Christopher Rogers,50,Male,High School,Conference centre manager,125759,"Books, Science",Eco-Friendly
+CUSTID_968,Michael Moran,20,Female,PhD,Wellsite geologist,148638,Gaming,Fashion
+CUSTID_969,Alexis Peterson,36,Male,Master's,Copy,114849,"Books, Science",Beauty
+CUSTID_970,Charles Taylor,38,Female,PhD,Operational investment banker,43122,Finance,Beauty
+CUSTID_971,Joseph Smith,32,Male,Master's,Television production assistant,129148,Entertainment,Fashion
+CUSTID_972,Maria Williams,39,Female,High School,Conference centre manager,63657,Entertainment,Luxury
+CUSTID_973,James Beard,58,Female,High School,Learning mentor,149662,Beauty,Eco-Friendly
+CUSTID_974,Joseph Shields,28,Male,Master's,Insurance broker,87024,Finance,Fashion
+CUSTID_975,Craig Hernandez,59,Female,High School,"Surveyor, rural practice",70033,Music,Eco-Friendly
+CUSTID_976,Nathan Parker,24,Female,PhD,"Geneticist, molecular",116552,"Books, Science",Beauty
+CUSTID_977,James Reed,32,Male,Bachelor's,"Editor, film/video",81437,Sports,Eco-Friendly
+CUSTID_978,Christopher Mcdonald,20,Female,High School,Television/film/video producer,39394,Beauty,Beauty
+CUSTID_979,Micheal Lowe,18,Female,High School,Amenity horticulturist,103958,Beauty,Beauty
+CUSTID_980,Aaron Wilkerson,37,Female,Bachelor's,General practice doctor,144476,Entertainment,Beauty
+CUSTID_981,Penny Reid,25,Female,Bachelor's,IT sales professional,65211,Sports,"Tech-Savvy, AI"
+CUSTID_982,Gary Curtis,54,Female,Master's,Broadcast presenter,61973,Sports,Luxury
+CUSTID_983,Scott Morrison MD,57,Male,PhD,Actor,35515,Finance,Luxury
+CUSTID_984,Casey Gibson,56,Male,High School,Glass blower/designer,35810,"Books, Science",Budget
+CUSTID_985,Andrea Gonzalez,20,Male,Master's,"Designer, exhibition/display",68815,Music,Eco-Friendly
+CUSTID_986,Katherine Chavez,55,Male,High School,Operational investment banker,53584,Fashion,Beauty
+CUSTID_987,Ronald Hopkins,31,Male,PhD,Therapeutic radiographer,99985,Home-Decor,"Tech-Savvy, AI"
+CUSTID_988,Rachel Williams,56,Female,Bachelor's,Office manager,50679,Fashion,Eco-Friendly
+CUSTID_989,Dustin Cruz,26,Female,Master's,Careers information officer,124120,Gaming,Luxury
+CUSTID_990,Shelby Richards,34,Female,High School,"Journalist, newspaper",89057,Finance,"Tech-Savvy, AI"
+CUSTID_991,Joseph Obrien,55,Male,Master's,Further education lecturer,131546,Fashion,Luxury
+CUSTID_992,Melissa Romero,31,Female,Bachelor's,Information officer,83661,Sports,Budget
+CUSTID_993,Maurice Hurley,38,Male,Master's,Operations geologist,79692,Music,"Tech-Savvy, AI"
+CUSTID_994,Ann Villarreal,47,Male,PhD,Soil scientist,97114,Sports,Luxury
+CUSTID_995,Carmen Golden,45,Female,PhD,"Therapist, drama",66723,Beauty,Eco-Friendly
+CUSTID_996,Rebecca Marks,32,Female,Master's,"Accountant, chartered public finance",41139,Entertainment,"Tech-Savvy, AI"
+CUSTID_997,Vincent Richardson,28,Female,PhD,Chartered legal executive (England and Wales),142846,Beauty,Beauty
+CUSTID_998,Michelle Larson,52,Female,Master's,Equities trader,46158,Fashion,Eco-Friendly
+CUSTID_999,Ellen Hernandez,41,Female,Master's,Media buyer,103637,Sports,Luxury

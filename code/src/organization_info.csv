@@ -1,0 +1,201 @@
+organization_id,company_name,industry,price_range,flagship_product,revenue,num_employees
+ORGID_0,Schultz-Shaw,Technology,Low,forward,4501094,3925
+ORGID_1,"Mcmahon, Sanchez and Rangel",Entertainment,Low,involve,3709327,3323
+ORGID_2,"Miller, Koch and Miller",Software,Medium,student,2209367,2572
+ORGID_3,Ortiz-Hines,Healthcare,Low,special,3843027,872
+ORGID_4,Cox-Manning,Fashion,Low,kind,4303230,2883
+ORGID_5,Peterson Ltd,Software,Premium,color,1318720,2895
+ORGID_6,"Brewer, Torres and Huffman",Technology,High,TV,3313010,2762
+ORGID_7,Morgan Group,Technology,Premium,within,1279681,1173
+ORGID_8,Daniels and Sons,Retail,Medium,across,2215827,1695
+ORGID_9,Torres-Nichols,Retail,Premium,image,2774110,3191
+ORGID_10,Howard PLC,Finance,Low,left,2963177,798
+ORGID_11,Long Ltd,Finance,Premium,subject,2107830,2372
+ORGID_12,Anderson Ltd,Software,Premium,she,3028143,2408
+ORGID_13,"Sanchez, Miller and Sandoval",Technology,High,expect,2189825,4111
+ORGID_14,Gutierrez-Gaines,Software,Low,what,1177415,3165
+ORGID_15,Adkins Inc,Healthcare,Premium,size,2334030,4498
+ORGID_16,Harris Group,Retail,Medium,detail,4320159,4577
+ORGID_17,Acosta-Owens,Automotive,Low,cultural,2088773,4522
+ORGID_18,"Mills, Tran and Oneal",Entertainment,Premium,they,4720896,3391
+ORGID_19,"Nielsen, Grant and Nelson",Automotive,Low,itself,2468243,2978
+ORGID_20,David Ltd,Software,Medium,everything,1787590,989
+ORGID_21,Smith-Barber,Electronics,Premium,traditional,3361325,687
+ORGID_22,Crane Inc,Electronics,Low,four,3145213,2975
+ORGID_23,"Bowen, Smith and Smith",Electronics,High,away,4266087,480
+ORGID_24,"Thomas, Lee and Williams",Entertainment,Premium,clear,4370646,2316
+ORGID_25,"Hall, Johnson and Collins",Automotive,High,personal,3331785,914
+ORGID_26,Evans-Clark,Healthcare,Medium,wide,1293142,1217
+ORGID_27,Hall LLC,Finance,Premium,technology,3881032,1768
+ORGID_28,Hill-Garza,Healthcare,Premium,prove,3932388,1081
+ORGID_29,"Peterson, Greene and Williams",Technology,Premium,town,3457151,374
+ORGID_30,Wiley-Mccall,Entertainment,Medium,sign,2103388,4475
+ORGID_31,Nunez PLC,Retail,Premium,language,2422851,4079
+ORGID_32,Robinson LLC,Entertainment,Low,successful,2877575,4182
+ORGID_33,"Martinez, Evans and Moore",Finance,Premium,store,4311596,280
+ORGID_34,Terrell-Meyer,Finance,High,alone,1261545,4221
+ORGID_35,Bates-Sullivan,Entertainment,High,truth,4868542,190
+ORGID_36,Montgomery PLC,Retail,Premium,agreement,1684596,1470
+ORGID_37,Norris-Jones,Automotive,High,throughout,4869985,4114
+ORGID_38,"Camacho, Bell and Khan",Retail,Medium,girl,1491888,1133
+ORGID_39,Jones-Thornton,Finance,High,industry,1538639,4659
+ORGID_40,Mccarty PLC,Fashion,Low,figure,4456848,1452
+ORGID_41,"Thomas, Shaw and Saunders",Fashion,High,expect,3810478,2010
+ORGID_42,Williams-Bryan,Automotive,Medium,note,3485383,3892
+ORGID_43,"Tucker, Willis and Rocha",Entertainment,Premium,tend,2164512,2879
+ORGID_44,"Webb, Fitzgerald and Thomas",Healthcare,Low,thousand,2275723,3378
+ORGID_45,Mason-Oconnor,Entertainment,Medium,nothing,4030277,4473
+ORGID_46,Richardson-Dickerson,Healthcare,Premium,network,4471603,1130
+ORGID_47,"Moore, Maldonado and Little",Automotive,Low,walk,2482767,3807
+ORGID_48,Murray-King,Fashion,Low,film,1855736,436
+ORGID_49,"Gilbert, Peterson and Nelson",Automotive,Premium,often,1614020,3838
+ORGID_50,Medina-Weeks,Technology,Low,top,3164209,2073
+ORGID_51,Carpenter-Mckinney,Technology,Medium,what,2017437,373
+ORGID_52,Oneal-Matthews,Entertainment,Low,sister,4049730,2056
+ORGID_53,Moreno PLC,Finance,Premium,turn,4512650,2699
+ORGID_54,"Peters, Greene and Lindsey",Technology,Low,take,1930344,690
+ORGID_55,"Flowers, Edwards and Marquez",Automotive,Low,today,3392417,1342
+ORGID_56,Johnston LLC,Fashion,Low,public,4413197,266
+ORGID_57,"Morgan, Clarke and Tate",Fashion,Medium,even,1214351,2497
+ORGID_58,"Mack, Aguilar and Rogers",Entertainment,High,could,3411035,584
+ORGID_59,Miller-Ferguson,Automotive,High,exactly,3903160,1711
+ORGID_60,Brewer-Chen,Fashion,Premium,your,1925730,3322
+ORGID_61,Miller Inc,Fashion,High,across,3132613,1850
+ORGID_62,"Baldwin, Roberts and Craig",Entertainment,Medium,interview,2885612,132
+ORGID_63,Davidson-Freeman,Electronics,Premium,agree,1320540,2145
+ORGID_64,Nguyen-Myers,Software,Premium,inside,3283611,1691
+ORGID_65,"Riley, Webb and Vargas",Entertainment,Premium,maybe,4770437,3465
+ORGID_66,Randolph-Collins,Retail,High,baby,2245043,775
+ORGID_67,"Owens, Montgomery and Hoffman",Retail,Premium,kid,1167274,1304
+ORGID_68,Reed-Reyes,Entertainment,Premium,continue,2557671,540
+ORGID_69,Sullivan Ltd,Entertainment,Low,game,4790803,3104
+ORGID_70,Andrews-Butler,Technology,Premium,cost,2877049,1743
+ORGID_71,Ward-Bell,Automotive,Medium,method,4930681,3891
+ORGID_72,Ortega LLC,Software,High,defense,3381613,2113
+ORGID_73,Jones Ltd,Entertainment,High,risk,1974038,3040
+ORGID_74,Hopkins-Leon,Healthcare,Premium,thus,2956864,981
+ORGID_75,Salas-Haney,Technology,High,sing,3934577,3389
+ORGID_76,Bailey-Adams,Healthcare,High,generation,1704535,4681
+ORGID_77,Nolan-Wilson,Automotive,High,loss,3398521,322
+ORGID_78,"Mitchell, Evans and Campbell",Retail,Premium,term,2902368,2460
+ORGID_79,Lopez Inc,Healthcare,Premium,past,3058154,277
+ORGID_80,Russell Ltd,Healthcare,Low,parent,1694528,995
+ORGID_81,Barker LLC,Automotive,Premium,eight,4150608,213
+ORGID_82,Ramsey-Lee,Technology,Low,tend,4275236,1726
+ORGID_83,Booker-Delacruz,Software,Medium,cover,3087488,539
+ORGID_84,Clark Ltd,Technology,Medium,within,2595895,3941
+ORGID_85,Jones-Hampton,Software,High,find,2391558,3392
+ORGID_86,Lopez-Lopez,Software,High,per,2644939,1031
+ORGID_87,Poole PLC,Technology,Medium,stuff,3115943,1666
+ORGID_88,Bradford Group,Electronics,Medium,must,2089866,235
+ORGID_89,"Harris, Hess and Simmons",Software,Premium,medical,2636407,1387
+ORGID_90,Johnson-Dyer,Software,Premium,trip,4581446,4162
+ORGID_91,Robertson-Hendrix,Software,Low,if,4066118,3656
+ORGID_92,Greene-Page,Automotive,Premium,body,1064873,1905
+ORGID_93,Duffy-Huffman,Technology,High,help,1472616,3194
+ORGID_94,Dennis-Reed,Retail,Premium,single,2553316,2292
+ORGID_95,Williams-Bartlett,Software,Premium,voice,4665345,2016
+ORGID_96,Perez Ltd,Entertainment,Low,shoulder,3559899,746
+ORGID_97,Shaw Group,Healthcare,Medium,decide,1299052,3389
+ORGID_98,Perkins-Davis,Automotive,High,important,3768303,176
+ORGID_99,Harmon Ltd,Electronics,High,over,1686576,653
+ORGID_100,Harrington-Watson,Fashion,Low,simple,4484877,1742
+ORGID_101,"Swanson, Davis and Brown",Software,Low,certainly,4074923,4528
+ORGID_102,"Peterson, Brown and Campbell",Entertainment,Premium,without,3581434,2552
+ORGID_103,Hanson PLC,Finance,Medium,expert,3117754,1176
+ORGID_104,Woods Group,Healthcare,Premium,bank,2748214,2413
+ORGID_105,Clark Ltd,Electronics,Medium,raise,3136912,1916
+ORGID_106,Parks-Gregory,Software,Medium,or,3548198,1178
+ORGID_107,Hughes-Cunningham,Entertainment,Premium,room,2625883,1325
+ORGID_108,Anderson Group,Healthcare,Premium,air,1634723,2013
+ORGID_109,"Rodriguez, Gibson and Jones",Finance,Medium,skin,2212942,2025
+ORGID_110,"Ball, Figueroa and Weber",Software,Medium,peace,3128633,3534
+ORGID_111,Martinez Inc,Finance,High,tonight,4867417,2165
+ORGID_112,"Phillips, Mejia and Walker",Retail,Premium,safe,4861459,4264
+ORGID_113,"Crawford, Thomas and Rollins",Healthcare,High,store,2957565,251
+ORGID_114,Silva-Davis,Finance,Medium,bar,4130371,939
+ORGID_115,Walsh Inc,Fashion,Premium,knowledge,3679332,409
+ORGID_116,Estrada-Carter,Software,Premium,outside,1158845,3076
+ORGID_117,"Pierce, Hernandez and Cox",Finance,Premium,hour,3934389,2595
+ORGID_118,Ramos-Rodriguez,Technology,Premium,ability,3281009,910
+ORGID_119,"Leonard, Williams and Smith",Fashion,Premium,dog,2322838,1357
+ORGID_120,Nguyen-Griffin,Technology,Premium,tough,4945135,275
+ORGID_121,"Duran, Durham and Anderson",Automotive,Premium,what,4015273,236
+ORGID_122,Adams Inc,Entertainment,Low,performance,4255150,274
+ORGID_123,Anderson-Small,Retail,Low,growth,1300283,1307
+ORGID_124,Gomez-Hill,Healthcare,Premium,number,2674925,1368
+ORGID_125,Lambert-Ross,Finance,Medium,opportunity,3651134,4656
+ORGID_126,Holden-Ramirez,Software,Medium,look,1610337,3487
+ORGID_127,"Bell, Quinn and Fields",Entertainment,Premium,picture,1840713,119
+ORGID_128,Garza PLC,Fashion,Low,benefit,3125542,4475
+ORGID_129,Friedman PLC,Healthcare,Premium,response,1522467,1500
+ORGID_130,Nelson PLC,Retail,Low,purpose,1994546,4151
+ORGID_131,Clay and Sons,Electronics,Premium,surface,2624466,3014
+ORGID_132,Carter Ltd,Automotive,Premium,newspaper,3683964,261
+ORGID_133,Schultz-Boone,Software,Low,natural,4494199,4966
+ORGID_134,Yu Ltd,Electronics,Premium,official,1150848,1072
+ORGID_135,Baker-Shepard,Technology,Medium,it,1278063,2623
+ORGID_136,Wilson LLC,Retail,Medium,carry,3745356,1539
+ORGID_137,Wallace-Price,Entertainment,Medium,plan,3976556,3628
+ORGID_138,Chavez-Weiss,Software,Medium,begin,1983887,949
+ORGID_139,Miller PLC,Technology,Low,campaign,1358716,4122
+ORGID_140,"Delgado, Daugherty and Rivers",Software,Medium,able,1842365,2039
+ORGID_141,"Benson, Sanchez and Cooper",Retail,Low,play,2152850,3061
+ORGID_142,Moore LLC,Entertainment,Medium,how,4779793,2974
+ORGID_143,Mitchell LLC,Retail,Medium,and,4734889,3855
+ORGID_144,"King, Soto and Walker",Software,Medium,owner,1934113,1688
+ORGID_145,Whitehead PLC,Fashion,High,but,1528017,1049
+ORGID_146,"Hernandez, Moore and Moore",Electronics,High,around,1847571,1899
+ORGID_147,"Bowers, Malone and Anderson",Entertainment,High,according,4989641,352
+ORGID_148,"Lee, Munoz and Cortez",Fashion,Premium,capital,1224874,2398
+ORGID_149,"Durham, Dennis and Pratt",Automotive,Low,four,3895046,3579
+ORGID_150,"Martinez, Beasley and Clark",Fashion,Low,whether,4111755,2831
+ORGID_151,"Woods, Howard and Riley",Electronics,Low,stay,2533243,1299
+ORGID_152,Stafford-Ayala,Healthcare,Medium,reach,3485316,2178
+ORGID_153,"Carroll, Cannon and Obrien",Automotive,Low,seat,4167003,3783
+ORGID_154,"Woods, Gordon and Macias",Finance,Premium,during,1096472,2461
+ORGID_155,Thomas PLC,Healthcare,High,me,4463196,3548
+ORGID_156,Nguyen-Lam,Fashion,Premium,white,4318533,2164
+ORGID_157,"Howard, Bishop and Allen",Electronics,Medium,such,3843703,1167
+ORGID_158,Thompson Ltd,Healthcare,Medium,security,1464937,335
+ORGID_159,"Young, Brown and Rogers",Software,High,door,2703498,147
+ORGID_160,Hawkins-Campbell,Technology,Medium,suffer,1600823,3064
+ORGID_161,Gallagher-Melendez,Retail,High,air,2853688,2019
+ORGID_162,"Edwards, Nguyen and Cummings",Automotive,Medium,before,2392886,3521
+ORGID_163,Jenkins-Lee,Entertainment,Premium,true,3287662,3093
+ORGID_164,Holland-Williams,Healthcare,Low,list,3313258,2593
+ORGID_165,Figueroa LLC,Entertainment,Low,include,1561341,4310
+ORGID_166,Mccall-Welch,Entertainment,Low,world,3312130,1792
+ORGID_167,Patrick-Edwards,Entertainment,Premium,nature,1467133,3278
+ORGID_168,"Mckinney, Reynolds and Ibarra",Electronics,High,news,3750923,4783
+ORGID_169,Lee Ltd,Electronics,High,great,3608227,4786
+ORGID_170,Lopez-Marsh,Healthcare,High,else,1217832,4700
+ORGID_171,"Bell, Thomas and Wilson",Automotive,High,job,2065765,3498
+ORGID_172,Ellis-Davis,Retail,High,tax,4705551,1774
+ORGID_173,"Boone, Stone and Smith",Entertainment,High,five,3597270,500
+ORGID_174,Cain Group,Software,High,source,4270947,4321
+ORGID_175,Martinez-Mckinney,Entertainment,Low,until,2702721,4648
+ORGID_176,Sexton-Gray,Automotive,Premium,financial,1053327,1739
+ORGID_177,Hernandez-Hudson,Technology,Medium,guy,4478161,546
+ORGID_178,"Velez, Jackson and Griffin",Retail,Premium,play,1980778,65
+ORGID_179,Hodge-Martinez,Entertainment,High,your,1273071,4678
+ORGID_180,Jimenez LLC,Fashion,Low,film,2116403,2966
+ORGID_181,"Lewis, Bryant and Patton",Software,Premium,environment,4719321,3292
+ORGID_182,Smith-Grimes,Software,Medium,your,3737005,3884
+ORGID_183,Marks and Sons,Electronics,Low,language,4950814,3269
+ORGID_184,Martinez-Nelson,Technology,Medium,mind,4682820,2538
+ORGID_185,Buck Inc,Retail,Medium,prove,3956836,2204
+ORGID_186,Taylor Ltd,Technology,High,beat,3614506,4893
+ORGID_187,James and Sons,Software,Low,them,1593206,845
+ORGID_188,"Bell, Johnson and Smith",Retail,Premium,door,3038649,2692
+ORGID_189,White and Sons,Fashion,Medium,stage,2208839,290
+ORGID_190,"Fletcher, Jennings and Hall",Finance,Low,beautiful,4512425,1778
+ORGID_191,Bell-Tran,Finance,High,world,3449168,1613
+ORGID_192,Nolan Inc,Healthcare,Medium,lawyer,3704614,960
+ORGID_193,Mcclain-Miller,Finance,Medium,dream,2973183,2386
+ORGID_194,"Smith, Finley and Alvarez",Retail,Premium,court,1177662,1502
+ORGID_195,Owen-Chang,Fashion,Medium,local,3478661,2652
+ORGID_196,Williams and Sons,Entertainment,Medium,second,3928771,869
+ORGID_197,"Jensen, Livingston and Allen",Fashion,Low,hundred,2666727,4956
+ORGID_198,Davis-Mclaughlin,Finance,High,writer,2685766,1227
+ORGID_199,Anderson-Caldwell,Healthcare,Medium,perhaps,1516662,3400
